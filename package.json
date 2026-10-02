@@ -1,0 +1,7 @@
+{
+  "name": "just-landed-in-abu-dhabi",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "test": "node --test tests/*.test.mjs" },
+  "engines": { "node": ">=22" }
+}
