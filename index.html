@@ -3,30 +3,106 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Guidance, answers, and official information for newcomers to Abu Dhabi.">
   <title>Just Landed in Abu Dhabi</title>
   <link rel="stylesheet" href="/styles.css">
-  <script src="/app.js" defer></script>
+  <script src="/app.js" type="module"></script>
 </head>
 <body>
-  <main>
-    <h1>Just Landed in Abu Dhabi</h1>
-    <form id="question-form">
-      <label for="language">Answer language</label>
-      <select id="language" name="language">
-        <option value="en">English</option>
-        <option value="ar">العربية</option>
-        <option value="hi">हिन्दी</option>
-        <option value="ur">اردو</option>
-        <option value="fr">Français</option>
-      </select>
-      <label for="question">Your question</label>
-      <textarea id="question" name="question" rows="5" maxlength="2000" placeholder="What would you like to know?" required dir="auto"></textarea>
-      <button type="submit">Get Answer</button>
-    </form>
-    <p id="status" role="status" aria-live="polite"></p>
-    <section id="answer-section" hidden aria-labelledby="answer-heading">
-      <h2 id="answer-heading">Answer</h2>
-      <div id="answer" dir="auto"></div>
+  <main class="page">
+    <header class="hero">
+      <div class="hero-copy">
+        <h1>Just Landed<br>in Abu Dhabi</h1>
+        <p class="tagline">Your Onboarding Assistant</p>
+        <p class="hero-description">Guidance, answers, and official information — all in one place.</p>
+        <time id="today" class="today"></time>
+      </div>
+      <aside class="settings card" aria-labelledby="settings-heading">
+        <div class="settings-heading"><h2 id="settings-heading">Your settings</h2><span class="gold-line" aria-hidden="true"></span></div>
+        <label for="language">Language</label>
+        <select id="language">
+          <option value="en">English</option><option value="ar">Arabic · العربية</option>
+          <option value="hi">Hindi · हिन्दी</option><option value="ur">Urdu · اردو</option>
+          <option value="tl">Tagalog</option><option value="ru">Russian · Русский</option>
+          <option value="fr">French · Français</option><option value="zh">Chinese · 中文</option>
+        </select>
+        <details id="profile-settings">
+          <summary>Optional profile <span class="optional-note">Personalise your guidance</span></summary>
+          <form id="profile-form" class="profile-fields" autocomplete="on">
+            <div><label for="profile-name">Name</label><input id="profile-name" name="name" maxlength="100" autocomplete="given-name" placeholder="Your name"></div>
+            <div><label for="profile-country">Country</label><input id="profile-country" name="country" maxlength="100" list="country-suggestions" autocomplete="country-name" placeholder="Start typing a country"><datalist id="country-suggestions"></datalist></div>
+            <div class="field-pair">
+              <div><label for="profile-arrival">Arrival</label><input id="profile-arrival" name="arrival" type="date"></div>
+              <div><label for="profile-adults">Adults</label><input id="profile-adults" name="adults" type="number" min="1" max="20" placeholder="e.g. 2"></div>
+            </div>
+            <div><label for="profile-children">Children’s ages</label><input id="profile-children" name="childrenAges" inputmode="numeric" maxlength="100" placeholder="e.g. 3, 7, 12"><p class="field-hint">Separate ages with commas. Leave blank if none.</p></div>
+            <div><label for="profile-spouse">Spouse</label><select id="profile-spouse" name="spouse"><option value="">Select if relevant</option><option value="not_coming">Not coming</option><option value="coming_not_working">Coming, not working</option><option value="coming_will_work">Coming, will work</option></select></div>
+            <div><label for="profile-employer">Employer type</label><select id="profile-employer" name="employerType"><option value="">Select if relevant</option><option value="private">Private sector</option><option value="government">Government</option><option value="free_zone">Free zone</option><option value="self_employed">Self-employed</option><option value="other">Other</option></select></div>
+          </form>
+        </details>
+      </aside>
+    </header>
+
+    <section class="workflow" id="ask-row" aria-labelledby="ask-heading">
+      <div class="input-card card">
+        <div class="row-title"><span class="step">01</span><h2 id="ask-heading">Ask a Question</h2></div>
+        <form id="question-form">
+          <label for="question">What would you like to know?</label>
+          <textarea id="question" name="question" rows="4" maxlength="2000" placeholder="Ask about your move to Abu Dhabi…" required dir="auto"></textarea>
+          <button type="submit" id="ask-button" class="primary-button">Get Answer</button>
+        </form>
+        <p class="suggestion-label">Try a question</p>
+        <div id="suggested-questions" class="chips" aria-label="Suggested questions"></div>
+        <p id="ask-message" class="message" role="status" aria-live="polite"></p>
+      </div>
+      <section class="answer-card card" aria-labelledby="ask-answer-heading">
+        <p class="column-label" id="ask-answer-heading">YOUR ANSWERS</p>
+        <div id="ask-history" class="history"><p class="empty-state">Ask a question to see your answer here.</p></div>
+      </section>
+      <aside class="links-card card" aria-labelledby="ask-links-heading">
+        <p class="column-label" id="ask-links-heading">LINKS & SOURCES</p>
+        <div id="ask-links"><p class="empty-state">Links for the selected answer will appear here.</p></div>
+      </aside>
+    </section>
+
+    <section class="workflow" id="browse-row" aria-labelledby="browse-heading">
+      <div class="input-card card">
+        <div class="row-title"><span class="step">02</span><h2 id="browse-heading">Browse by Topic</h2></div>
+        <label for="topic">Choose a topic</label>
+        <select id="topic" disabled><option>Loading topics…</option></select>
+        <div id="topic-questions" class="topic-questions" aria-label="Questions in this topic"></div>
+        <p id="browse-message" class="message" role="status" aria-live="polite"></p>
+      </div>
+      <section class="answer-card card" aria-labelledby="browse-answer-heading">
+        <p class="column-label" id="browse-answer-heading">TOPIC ANSWERS</p>
+        <div id="browse-history" class="history"><p class="empty-state">Select a question to see its answer.</p></div>
+      </section>
+      <aside class="links-card card" aria-labelledby="browse-links-heading">
+        <p class="column-label" id="browse-links-heading">LINKS & SOURCES</p>
+        <div id="browse-links"><p class="empty-state">Links for the selected answer will appear here.</p></div>
+      </aside>
+    </section>
+
+    <section class="workflow" id="document-row" aria-labelledby="document-heading">
+      <div class="input-card card">
+        <div class="row-title"><span class="step">03</span><h2 id="document-heading">Ask About a Document</h2></div>
+        <form id="document-form">
+          <label for="document-file">Upload an image or PDF</label>
+          <div class="upload-box"><input id="document-file" name="document" type="file" accept="application/pdf,image/jpeg,image/png,image/webp,.pdf,.jpg,.jpeg,.png,.webp" required><p class="field-hint">PDF, JPG, PNG or WebP · up to 3 MB</p></div>
+          <label for="document-question">Your question <span class="label-note">(optional)</span></label>
+          <textarea id="document-question" name="question" rows="3" maxlength="2000" placeholder="Is there anything I need to do?" dir="auto"></textarea>
+          <button type="submit" id="document-button" class="primary-button">Explain Document</button>
+        </form>
+        <p id="document-message" class="message" role="status" aria-live="polite"></p>
+      </div>
+      <section class="answer-card card" aria-labelledby="document-answer-heading">
+        <p class="column-label" id="document-answer-heading">DOCUMENT EXPLANATIONS</p>
+        <div id="document-history" class="history"><p class="empty-state">Understand what it is, what to do,<br>and any deadlines.</p></div>
+      </section>
+      <aside class="links-card card" aria-labelledby="document-links-heading">
+        <p class="column-label" id="document-links-heading">DOCUMENT LINKS</p>
+        <div id="document-links"><p class="empty-state">Links printed in your document will appear here.</p></div>
+      </aside>
     </section>
   </main>
 </body>

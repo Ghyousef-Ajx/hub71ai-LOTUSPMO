@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Residency & Documents",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What visa will I arrive on, and how does it convert to residency?"
+      },
+      {
+        "id": 2,
+        "question": "Can my wife come on my sponsorship, and what documents does she need?"
+      },
+      {
+        "id": 3,
+        "question": "Do our marriage and education certificates need attestation, and where?"
+      },
+      {
+        "id": 4,
+        "question": "Do the children's birth certificates need attestation?"
+      },
+      {
+        "id": 11,
+        "question": "What is the medical fitness test, where do I do it, and how long does it take?"
+      },
+      {
+        "id": 12,
+        "question": "How do I apply for an Emirates ID, and how long until I get it?"
+      },
+      {
+        "id": 15,
+        "question": "What is TAMM and do I need an account?"
+      },
+      {
+        "id": 16,
+        "question": "What is UAE Pass and why do I need it?"
+      },
+      {
+        "id": 17,
+        "question": "How do I get my wife's residency processed once mine is done?"
+      },
+      {
+        "id": 19,
+        "question": "What happens if my Emirates ID is delayed — can I still rent, bank, enrol children?"
+      },
+      {
+        "id": 20,
+        "question": "Who do I contact if my employer is slow processing my visa?"
+      },
+      {
+        "id": 48,
+        "question": "How do I register with my embassy?"
+      }
+    ]
+  },
+  {
+    "name": "Housing",
+    "questions": [
+      {
+        "id": 9,
+        "question": "Should we book temporary accommodation first, and for how long?"
+      },
+      {
+        "id": 21,
+        "question": "Which areas suit families, and roughly what does rent cost?"
+      },
+      {
+        "id": 22,
+        "question": "How many cheques is rent usually paid in?"
+      },
+      {
+        "id": 23,
+        "question": "What is Tawtheeq and who registers it?"
+      },
+      {
+        "id": 24,
+        "question": "What deposit and agent fees should I expect?"
+      },
+      {
+        "id": 25,
+        "question": "Can I rent before I have residency?"
+      },
+      {
+        "id": 26,
+        "question": "How do I set up water and electricity (ADDC)?"
+      },
+      {
+        "id": 27,
+        "question": "How do I get internet installed, and how long does it take?"
+      },
+      {
+        "id": 28,
+        "question": "What should I check in a tenancy contract before signing?"
+      }
+    ]
+  },
+  {
+    "name": "Schools",
+    "questions": [
+      {
+        "id": 29,
+        "question": "How do I find and compare schools?"
+      },
+      {
+        "id": 30,
+        "question": "What curricula are available, and how do they compare to ours?"
+      },
+      {
+        "id": 31,
+        "question": "What documents are needed for school enrolment?"
+      },
+      {
+        "id": 32,
+        "question": "When does the school year start, and can children join mid-year?"
+      },
+      {
+        "id": 33,
+        "question": "What are typical fees, and does my employer contribute?"
+      },
+      {
+        "id": 34,
+        "question": "Is there a school bus, and how do I arrange it?"
+      },
+      {
+        "id": 35,
+        "question": "What’s the process if my child needs learning support?"
+      }
+    ]
+  },
+  {
+    "name": "Healthcare",
+    "questions": [
+      {
+        "id": 5,
+        "question": "What vaccinations or medical records should we bring?"
+      },
+      {
+        "id": 36,
+        "question": "Is health insurance mandatory, and who provides it for my wife and children?"
+      },
+      {
+        "id": 37,
+        "question": "How do I register with a doctor or clinic?"
+      },
+      {
+        "id": 38,
+        "question": "Where do I go in an emergency?"
+      },
+      {
+        "id": 39,
+        "question": "Can I get my regular prescription medication here?"
+      },
+      {
+        "id": 40,
+        "question": "Is my wife's maternity care covered?"
+      }
+    ]
+  },
+  {
+    "name": "Daily Life",
+    "questions": [
+      {
+        "id": 7,
+        "question": "Can we ship household goods, and what's restricted?"
+      },
+      {
+        "id": 8,
+        "question": "Can we bring our pet?"
+      },
+      {
+        "id": 10,
+        "question": "What's the best time of year to arrive?"
+      },
+      {
+        "id": 14,
+        "question": "How do I get a local SIM card?"
+      },
+      {
+        "id": 41,
+        "question": "Can I drive on my home licence, and for how long?"
+      },
+      {
+        "id": 42,
+        "question": "How do I convert my driving licence?"
+      },
+      {
+        "id": 43,
+        "question": "How do I buy or lease a car, and what insurance is needed?"
+      },
+      {
+        "id": 44,
+        "question": "Is public transport practical for daily use?"
+      },
+      {
+        "id": 45,
+        "question": "How do I get a Hafilat card or use taxis and ride apps?"
+      },
+      {
+        "id": 46,
+        "question": "What laws or customs should we be aware of that differ from home?"
+      },
+      {
+        "id": 47,
+        "question": "What should we expect during Ramadan?"
+      },
+      {
+        "id": 50,
+        "question": "Where can we find community groups, places of worship, or newcomer networks?"
+      },
+      {
+        "id": 67,
+        "question": "How do I register a home address officially?"
+      },
+      {
+        "id": 68,
+        "question": "How do I get a PO Box or receive mail?"
+      },
+      {
+        "id": 69,
+        "question": "What are typical utility bills per month?"
+      },
+      {
+        "id": 70,
+        "question": "Where do I shop for groceries, and what will cost more than at home?"
+      },
+      {
+        "id": 71,
+        "question": "Are alcohol and pork available, and what are the rules?"
+      },
+      {
+        "id": 72,
+        "question": "How do I dispose of bulky waste or recycle?"
+      },
+      {
+        "id": 73,
+        "question": "What apps does everyone here use (delivery, government, transport)?"
+      },
+      {
+        "id": 74,
+        "question": "Can I get domestic help, and how is a housemaid visa sponsored?"
+      }
+    ]
+  },
+  {
+    "name": "Family",
+    "questions": [
+      {
+        "id": 18,
+        "question": "Can my wife work on my sponsorship?"
+      },
+      {
+        "id": 49,
+        "question": "How does my wife meet people if she isn't working?"
+      },
+      {
+        "id": 75,
+        "question": "Can my wife open her own bank account?"
+      },
+      {
+        "id": 76,
+        "question": "Can my wife study or take courses here?"
+      },
+      {
+        "id": 77,
+        "question": "Can my wife sponsor a family member to visit?"
+      },
+      {
+        "id": 78,
+        "question": "How do we get a visit visa for my parents?"
+      },
+      {
+        "id": 79,
+        "question": "Can my parents live with us long-term?"
+      },
+      {
+        "id": 80,
+        "question": "What childcare or nursery options exist for under-fours?"
+      },
+      {
+        "id": 81,
+        "question": "What happens if we have a baby here — birth certificate, visa, passport?"
+      },
+      {
+        "id": 82,
+        "question": "Is there paternity leave?"
+      }
+    ]
+  },
+  {
+    "name": "Money & Banking",
+    "questions": [
+      {
+        "id": 6,
+        "question": "How much cash or savings should we have for the first two months?"
+      },
+      {
+        "id": 13,
+        "question": "Can I open a bank account before my Emirates ID arrives?"
+      },
+      {
+        "id": 51,
+        "question": "How do I get my salary paid — what is WPS?"
+      },
+      {
+        "id": 52,
+        "question": "What do I need to open a bank account, and which banks are newcomer-friendly?"
+      },
+      {
+        "id": 53,
+        "question": "Can I get a credit card in the first year?"
+      },
+      {
+        "id": 54,
+        "question": "How do I transfer money home cheaply?"
+      },
+      {
+        "id": 55,
+        "question": "Is there income tax, and what about tax obligations back home?"
+      },
+      {
+        "id": 56,
+        "question": "What is end-of-service gratuity and how is it calculated?"
+      },
+      {
+        "id": 57,
+        "question": "Do I need a will here, and what happens to my assets if I die in the UAE?"
+      },
+      {
+        "id": 58,
+        "question": "How do I budget for annual costs like school fees, rent cheques and insurance?"
+      }
+    ]
+  },
+  {
+    "name": "Work & Legal",
+    "questions": [
+      {
+        "id": 59,
+        "question": "What should be in my employment contract before I sign?"
+      },
+      {
+        "id": 60,
+        "question": "What is the probation period and can I leave during it?"
+      },
+      {
+        "id": 61,
+        "question": "What is a labour ban, and does it still apply?"
+      },
+      {
+        "id": 62,
+        "question": "Can I do freelance or side work on an employment visa?"
+      },
+      {
+        "id": 63,
+        "question": "What are the rules for changing employers?"
+      },
+      {
+        "id": 64,
+        "question": "What is a golden visa and could I qualify later?"
+      },
+      {
+        "id": 65,
+        "question": "What happens to my family's residency if I lose my job?"
+      },
+      {
+        "id": 66,
+        "question": "How do I file a complaint against my employer?"
+      }
+    ]
+  },
+  {
+    "name": "Safety",
+    "questions": [
+      {
+        "id": 83,
+        "question": "What are the emergency numbers?"
+      },
+      {
+        "id": 84,
+        "question": "How safe is it to walk at night or leave things in the car?"
+      },
+      {
+        "id": 85,
+        "question": "What do I do if I lose my passport or Emirates ID?"
+      },
+      {
+        "id": 86,
+        "question": "What happens if I get a traffic fine or my car is impounded?"
+      },
+      {
+        "id": 87,
+        "question": "How do I report a dispute with a landlord?"
+      },
+      {
+        "id": 88,
+        "question": "What are the penalties for bounced cheques?"
+      }
+    ]
+  },
+  {
+    "name": "Long-Term",
+    "questions": [
+      {
+        "id": 89,
+        "question": "When can we buy property, and where can foreigners buy?"
+      },
+      {
+        "id": 90,
+        "question": "Can I get a mortgage as a resident?"
+      },
+      {
+        "id": 91,
+        "question": "How do I bring my own business or start one here?"
+      },
+      {
+        "id": 92,
+        "question": "How do I get a UAE driving licence that works internationally?"
+      },
+      {
+        "id": 93,
+        "question": "Can I apply for citizenship or permanent residency eventually?"
+      },
+      {
+        "id": 94,
+        "question": "What pension or retirement options exist for expats?"
+      },
+      {
+        "id": 95,
+        "question": "How do we plan for children's university — local or abroad?"
+      },
+      {
+        "id": 96,
+        "question": "What do I need to cancel when we leave — visa, Tawtheeq, utilities, bank?"
+      },
+      {
+        "id": 97,
+        "question": "Can I ship goods out and take my car?"
+      },
+      {
+        "id": 98,
+        "question": "How do I get my gratuity and deposits back?"
+      },
+      {
+        "id": 99,
+        "question": "What records should I keep after leaving?"
+      },
+      {
+        "id": 100,
+        "question": "What if we want to come back later?"
+      }
+    ]
+  }
+]

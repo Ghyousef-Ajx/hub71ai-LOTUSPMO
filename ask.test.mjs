@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import ask from '../netlify/functions/ask.mjs';
+import { knowledgeBase } from '../netlify/functions/lib/knowledge.mjs';
 
 const request = body => new Request('https://example.test/.netlify/functions/ask', {
   method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body),
@@ -39,14 +40,18 @@ test('validation, server-only environment key, upstream request and errors', asy
     assert.equal(options.headers.Authorization, 'Bearer test-fixture-only');
     const payload = JSON.parse(options.body);
     assert.equal(payload.input, 'Where can I get a taxi?');
-    assert.match(payload.instructions, /Arabic/);
+    assert.match(payload.instructions, /English/);
     assert.equal(payload.store, false);
     assert.equal(payload.model, 'gpt-4.1-mini');
-    return Response.json({ status: 'completed', output: [{ type: 'message', content: [{ type: 'output_text', text: 'إجابة' }] }] });
+    assert.equal(payload.text.format.type, 'json_schema');
+    return Response.json({ status: 'completed', output: [{ type: 'message', content: [{ type: 'output_text', text: JSON.stringify({ entry_id: 45, confidence: .95, general_answer: '' }) }] }] });
   };
-  const success = await ask(request({ question: ' Where can I get a taxi? ', language: 'ar' }));
+  const success = await ask(request({ question: ' Where can I get a taxi? ', language: 'en' }));
   assert.equal(success.status, 200);
-  assert.deepEqual(await success.json(), { answer: 'إجابة' });
+  const matched = await success.json();
+  assert.equal(matched.answer, knowledgeBase[44].answer);
+  assert.deepEqual(matched.links, knowledgeBase[44].links);
+  assert.equal(matched.language, 'en');
   assert.equal(success.headers.get('cache-control'), 'no-store');
 
   for (const upstreamStatus of [401, 429, 500]) {

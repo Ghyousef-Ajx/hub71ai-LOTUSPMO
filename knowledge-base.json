@@ -1,0 +1,2397 @@
+{
+  "categories": [
+    {
+      "name": "Residency & Documents",
+      "entries": [
+        {
+          "id": 1,
+          "question": "What visa will I arrive on, and how does it convert to residency?",
+          "answerLabel": "Answer:",
+          "answer": "Most newcomers arrive either on a work entry permit (issued by their employer) or a visit/tourist visa. For\nemployment routes, your employer or sponsoring company applies for a residence entry permit tied to your job offer.\nOnce you enter the UAE on that permit, your status is changed to residency, followed by medical fitness, Emirates ID\nbiometrics, and issuance of the residence permit. For visit/tourist arrivals, you typically cannot convert directly to\nresidency without an approved sponsor and visa application; instead, your sponsor files a residence visa application\nand you either change status inside the UAE or exit and re-enter on the entry permit, depending on the route.",
+          "sources": [
+            {
+              "text": "UAE Government Visa & Emirates ID – General provisions for residence visa: https://u.ae/en/information-\nand-services/visa-and-emirates-id/residence-visa",
+              "links": [
+                "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visa"
+              ]
+            },
+            {
+              "text": "ICP – Issuing Residency Permit service: https://smartservices.icp.gov.ae",
+              "links": [
+                "https://smartservices.icp.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visa",
+            "https://smartservices.icp.gov.ae"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Can my wife come on my sponsorship, and what documents does she need?",
+          "answerLabel": "Answer:",
+          "answer": "Yes, if you hold a valid UAE residence visa and meet the minimum salary and housing requirements, you can\nsponsor your spouse. Typical documents include: your passport and residence visa, your employment contract or\nsalary certificate, attested marriage certificate, passport copies and photos of your spouse, housing lease contract\n(Ejari/Tawtheeq), and medical insurance as required. The attested marriage certificate is critical—without it, spousal\nsponsorship is usually not accepted.",
+          "sources": [
+            {
+              "text": "UAE Government – Sponsoring family members: https://u.ae/en/information-and-services/visa-and-\nemirates-id/residence-visa/sponsoring-family-members",
+              "links": [
+                "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visa/sponsoring-family-members"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visa/sponsoring-family-members"
+          ]
+        },
+        {
+          "id": 3,
+          "question": "Do our marriage and education certificates need attestation, and where?",
+          "answerLabel": "Answer:",
+          "answer": "Yes. Marriage certificates almost always need to be attested in the country of issue, then by the UAE\nembassy/consulate there, and finally by the UAE Ministry of Foreign Affairs (MoFAIC) on arrival. Education\ncertificates (especially for skilled roles or professional licensing) often require similar attestation if they are used for\nvisa category, professional classification, or licensing. The exact requirements depend on your visa type and emirate,\nbut as a safe rule: assume marriage and key education certificates must be fully attested before you rely on them for\nresidency or employment.",
+          "sources": [
+            {
+              "text": "UAE Government – Document attestation: https://u.ae/en/information-and-services/justice-and-\nsafety/attestation-of-documents",
+              "links": [
+                "https://u.ae/en/information-and-services/justice-and-safety/attestation-of-documents"
+              ]
+            },
+            {
+              "text": "MoFAIC – Attestation services: https://www.mofa.gov.ae",
+              "links": [
+                "https://www.mofa.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/justice-and-safety/attestation-of-documents",
+            "https://www.mofa.gov.ae"
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Do the children's birth certificates need attestation?",
+          "answerLabel": "Answer:",
+          "answer": "Yes, if you plan to use your children’s birth certificates for residency sponsorship, school enrolment, or\nofficial records, they should be attested in the country of issue, then by the UAE embassy/consulate, and finally by\nMoFAIC in the UAE. For newborns in the UAE, the local birth certificate is issued here and then attested locally as\nneeded.",
+          "sources": [
+            {
+              "text": "UAE Government – Residence visa documents (children): https://u.ae/en/information-and-services/visa-and-\nemirates-id/residence-visa",
+              "links": [
+                "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visa"
+              ]
+            },
+            {
+              "text": "MoFAIC – Attestation of foreign birth certificates: https://www.mofa.gov.ae",
+              "links": [
+                "https://www.mofa.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visa",
+            "https://www.mofa.gov.ae"
+          ]
+        },
+        {
+          "id": 11,
+          "question": "What is the medical fitness test, where do I do it, and how long does it take?",
+          "answerLabel": "Answer:",
+          "answer": "The medical fitness test is mandatory for all new residents. It includes a blood test and chest X-ray to screen\nfor communicable diseases. In Abu Dhabi, you complete it at SEHA Visa Screening Centers. The process usually takes\n15–30 minutes, and results are typically issued within 24–48 hours. You cannot receive your residence visa or\nEmirates ID until this step is completed.",
+          "sources": [
+            {
+              "text": "SEHA Visa Screening Centers: https://www.seha.ae",
+              "links": [
+                "https://www.seha.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Residency medical test: https://u.ae/en/information-and-services/visa-and-emirates-\nid/residence-visa (u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visa"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.seha.ae",
+            "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visa"
+          ]
+        },
+        {
+          "id": 12,
+          "question": "How do I apply for an Emirates ID, and how long until I get it?",
+          "answerLabel": "Answer:",
+          "answer": "Your Emirates ID application is submitted automatically when your employer or sponsor files your residency\nvisa. After your medical fitness test, you will receive an SMS to complete biometrics at an ICP service center. The\nEmirates ID card is usually issued within 5–10 working days after biometrics, though timelines vary.",
+          "sources": [
+            {
+              "text": "ICP – Emirates ID Services: https://smartservices.icp.gov.ae (smartservices.icp.gov.ae in Bing)",
+              "links": [
+                "https://smartservices.icp.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Emirates ID: https://u.ae/en/information-and-services/visa-and-emirates-id/emirates-id\n(u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/visa-and-emirates-id/emirates-id"
+              ]
+            }
+          ],
+          "links": [
+            "https://smartservices.icp.gov.ae",
+            "https://u.ae/en/information-and-services/visa-and-emirates-id/emirates-id"
+          ]
+        },
+        {
+          "id": 15,
+          "question": "What is TAMM and do I need an account?",
+          "answerLabel": "Answer:",
+          "answer": "TAMM is Abu Dhabi’s unified government services platform. It centralizes services such as residency,\nhousing, licensing, utilities, and more. You will need a TAMM account to access many Abu Dhabi-specific services,\nespecially once your Emirates ID is active.",
+          "sources": [
+            {
+              "text": "TAMM Abu Dhabi: https://www.tamm.abudhabi",
+              "links": [
+                "https://www.tamm.abudhabi"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.tamm.abudhabi"
+          ]
+        },
+        {
+          "id": 16,
+          "question": "What is UAE Pass and why do I need it?",
+          "answerLabel": "Answer:",
+          "answer": "UAE Pass is the national digital identity used to log into almost all government portals, including TAMM, ICP,\nand healthcare systems. It allows secure authentication, digital signatures, and access to official documents. You\nshould set it up within your first week.",
+          "sources": [
+            {
+              "text": "UAE Pass: https://www.uaepass.ae",
+              "links": [
+                "https://www.uaepass.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.uaepass.ae"
+          ]
+        },
+        {
+          "id": 17,
+          "question": "How do I get my wife's residency processed once mine is done?",
+          "answerLabel": "Answer:",
+          "answer": "Once your residency is issued, you can apply to sponsor your wife through ICP or TAMM. Steps include: entry\npermit, medical fitness test, Emirates ID application, and visa stamping. You must meet salary and housing\nrequirements and provide an attested marriage certificate.",
+          "sources": [
+            {
+              "text": "Sponsoring family members: https://u.ae/en/information-and-services/visa-and-emirates-id/residence-\nvisa/sponsoring-family-members (u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visa/sponsoring-family-members"
+              ]
+            },
+            {
+              "text": "ICP Smart Services: https://smartservices.icp.gov.ae (smartservices.icp.gov.ae in Bing)",
+              "links": [
+                "https://smartservices.icp.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visa/sponsoring-family-members",
+            "https://smartservices.icp.gov.ae"
+          ]
+        },
+        {
+          "id": 19,
+          "question": "What happens if my Emirates ID is delayed — can I still rent, bank, enrol children?",
+          "answerLabel": "Answer:",
+          "answer": "If your Emirates ID is delayed, you can still complete most tasks using your residency visa stamp or Emirates\nID application receipt.\n• Renting: Allowed with visa stamp + passport.\n• Banking: Some banks accept the application receipt.\n• School enrolment: Schools accept passport + visa. Delays are common and rarely block essential steps.",
+          "sources": [
+            {
+              "text": "ICP – Emirates ID application tracking: https://smartservices.icp.gov.ae (smartservices.icp.gov.ae in Bing)",
+              "links": [
+                "https://smartservices.icp.gov.ae"
+              ]
+            },
+            {
+              "text": "TAMM – Residency services: https://www.tamm.abudhabi",
+              "links": [
+                "https://www.tamm.abudhabi"
+              ]
+            }
+          ],
+          "links": [
+            "https://smartservices.icp.gov.ae",
+            "https://www.tamm.abudhabi"
+          ]
+        },
+        {
+          "id": 20,
+          "question": "Who do I contact if my employer is slow processing my visa?",
+          "answerLabel": "Answer:",
+          "answer": "If your employer delays your visa processing beyond reasonable timelines, you can contact MoHRE to file a\ncomplaint or request clarification. You can also check your visa status directly through ICP. Employers are legally\nrequired to process visas promptly.",
+          "sources": [
+            {
+              "text": "MoHRE Complaints: https://www.mohre.gov.ae",
+              "links": [
+                "https://www.mohre.gov.ae"
+              ]
+            },
+            {
+              "text": "ICP Visa Status: https://smartservices.icp.gov.ae (smartservices.icp.gov.ae in Bing)",
+              "links": [
+                "https://smartservices.icp.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.mohre.gov.ae",
+            "https://smartservices.icp.gov.ae"
+          ]
+        },
+        {
+          "id": 48,
+          "question": "How do I register with my embassy?",
+          "answerLabel": "Answer:",
+          "answer": "Most embassies encourage residents to register for consular support. You can register online through your\nembassy’s website or visit the embassy in Abu Dhabi. Registration helps with:\n• Emergency contact\n• Passport renewal\n• Voting (if applicable)\n• Consular assistance\nCheck your home country’s embassy website for the exact process.",
+          "sources": [
+            {
+              "text": "Directory of foreign embassies in UAE: https://u.ae/en/information-and-services/justice-and-\nsafety/embassies-and-consulates-in-the-uae",
+              "links": [
+                "https://u.ae/en/information-and-services/justice-and-safety/embassies-and-consulates-in-the-uae"
+              ]
+            },
+            {
+              "text": "Embassy-specific registration portals (varies by country)",
+              "links": []
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/justice-and-safety/embassies-and-consulates-in-the-uae"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Housing",
+      "entries": [
+        {
+          "id": 9,
+          "question": "Should we book temporary accommodation first, and for how long?",
+          "answerLabel": "Answer:",
+          "answer": "Yes. Most families book temporary accommodation (hotel, serviced apartment, or Airbnb-style stay) for 2–4\nweeks to allow time for: completing medical fitness, Emirates ID biometrics, viewing properties, and signing a\ntenancy contract. Booking too short a stay can create pressure if residency or housing steps are delayed; booking\naround 3 weeks is a practical balance for most newcomers.",
+          "sources": [
+            {
+              "text": "Launch in Dubai – Residency timelines & medical/ID sequence: https://launchindubai.com",
+              "links": [
+                "https://launchindubai.com"
+              ]
+            },
+            {
+              "text": "Abu Dhabi housing and tenancy guidance: https://u.ae/en/information-and-services/housing",
+              "links": [
+                "https://u.ae/en/information-and-services/housing"
+              ]
+            }
+          ],
+          "links": [
+            "https://launchindubai.com",
+            "https://u.ae/en/information-and-services/housing"
+          ]
+        },
+        {
+          "id": 21,
+          "question": "Which areas suit families, and roughly what does rent cost?",
+          "answerLabel": "Answer:",
+          "answer": "Popular family-friendly areas in Abu Dhabi include Khalifa City A, Mohammed Bin Zayed City, Al Reef,\nSaadiyat Island, Al Raha Gardens, and Al Reem Island. Typical annual rents (approximate):\n• 1BR: AED 55,000–90,000\n• 2BR: AED 75,000–130,000\n• 3BR: AED 110,000–180,000+ Prices vary by building age, amenities, and proximity to schools.",
+          "sources": [
+            {
+              "text": "Abu Dhabi Housing Info: https://u.ae/en/information-and-services/housing (u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/housing"
+              ]
+            },
+            {
+              "text": "Property Market Data (Bayut): https://www.bayut.com",
+              "links": [
+                "https://www.bayut.com"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/housing",
+            "https://www.bayut.com"
+          ]
+        },
+        {
+          "id": 22,
+          "question": "How many cheques is rent usually paid in?",
+          "answerLabel": "Answer:",
+          "answer": "Rent in Abu Dhabi is typically paid in 1–4 cheques per year.\n• 1 cheque often gives the best price.\n• 2–4 cheques offer flexibility but may slightly increase the rent. Some landlords now accept monthly\npayments via direct debit or digital platforms.",
+          "sources": [
+            {
+              "text": "General tenancy norms (Bayut): https://www.bayut.com",
+              "links": [
+                "https://www.bayut.com"
+              ]
+            },
+            {
+              "text": "Abu Dhabi tenancy guidance: https://u.ae/en/information-and-services/housing (u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/housing"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.bayut.com",
+            "https://u.ae/en/information-and-services/housing"
+          ]
+        },
+        {
+          "id": 23,
+          "question": "What is Tawtheeq and who registers it?",
+          "answerLabel": "Answer:",
+          "answer": "Tawtheeq is Abu Dhabi’s official tenancy registration system. It validates your rental contract and is required\nfor:\n• Sponsoring family members\n• School enrolment\n• Utility setup\n• Residency processes\nThe landlord or real estate agent usually registers Tawtheeq, but tenants can request updates or corrections through\nTAMM.",
+          "sources": [
+            {
+              "text": "Tawtheeq (TAMM): https://www.tamm.abudhabi",
+              "links": [
+                "https://www.tamm.abudhabi"
+              ]
+            },
+            {
+              "text": "UAE Government – Housing: https://u.ae/en/information-and-services/housing (u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/housing"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.tamm.abudhabi",
+            "https://u.ae/en/information-and-services/housing"
+          ]
+        },
+        {
+          "id": 24,
+          "question": "What deposit and agent fees should I expect?",
+          "answerLabel": "Answer:",
+          "answer": "Typical costs include:\n• Security deposit: 5% of annual rent (unfurnished) or 10% (furnished)\n• Agent commission: Usually 2–5% of annual rent or a fixed fee\n• Contract typing / admin fees: AED 100–300 These vary by landlord and agency.",
+          "sources": [
+            {
+              "text": "Abu Dhabi tenancy norms (Bayut): https://www.bayut.com",
+              "links": [
+                "https://www.bayut.com"
+              ]
+            },
+            {
+              "text": "TAMM tenancy services: https://www.tamm.abudhabi",
+              "links": [
+                "https://www.tamm.abudhabi"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.bayut.com",
+            "https://www.tamm.abudhabi"
+          ]
+        },
+        {
+          "id": 25,
+          "question": "Can I rent before I have residency?",
+          "answerLabel": "Answer:",
+          "answer": "Yes. Many landlords allow renting with a passport + entry permit. However, to register Tawtheeq, you will\neventually need your residency visa. You can sign the contract before residency, but full activation of utilities and\nsome services may require your Emirates ID or visa stamp.",
+          "sources": [
+            {
+              "text": "Abu Dhabi tenancy rules: https://u.ae/en/information-and-services/housing (u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/housing"
+              ]
+            },
+            {
+              "text": "TAMM tenancy registration: https://www.tamm.abudhabi",
+              "links": [
+                "https://www.tamm.abudhabi"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/housing",
+            "https://www.tamm.abudhabi"
+          ]
+        },
+        {
+          "id": 26,
+          "question": "How do I set up water and electricity (ADDC)?",
+          "answerLabel": "Answer:",
+          "answer": "Water and electricity in Abu Dhabi are provided by ADDC (Abu Dhabi Distribution Company). To activate\nservice, you need:\n• Tawtheeq contract\n• Emirates ID or residency visa\n• Passport copy\nActivation is usually completed within 24–48 hours.",
+          "sources": [
+            {
+              "text": "ADDC: https://www.addc.ae",
+              "links": [
+                "https://www.addc.ae"
+              ]
+            },
+            {
+              "text": "TAMM – Utility services: https://www.tamm.abudhabi",
+              "links": [
+                "https://www.tamm.abudhabi"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.addc.ae",
+            "https://www.tamm.abudhabi"
+          ]
+        },
+        {
+          "id": 27,
+          "question": "How do I get internet installed, and how long does it take?",
+          "answerLabel": "Answer:",
+          "answer": "Internet is provided by Etisalat or du. You will need:\n• Passport + visa or Emirates ID\n• Tawtheeq contract\n• Address details\nInstallation typically takes 1–3 days, depending on building access and technician availability.",
+          "sources": [
+            {
+              "text": "Etisalat Home Services: https://www.etisalat.ae",
+              "links": [
+                "https://www.etisalat.ae"
+              ]
+            },
+            {
+              "text": "du Home Services: https://www.du.ae",
+              "links": [
+                "https://www.du.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.etisalat.ae",
+            "https://www.du.ae"
+          ]
+        },
+        {
+          "id": 28,
+          "question": "What should I check in a tenancy contract before signing?",
+          "answerLabel": "Answer:",
+          "answer": "Key items to review:\n• Rent amount and number of cheques\n• Maintenance responsibilities\n• Notice period\n• Renewal terms\n• Deposit amount\n• Included amenities (parking, chiller, facilities)\n• Penalties for early termination\n• Accuracy of unit details (size, location, furnishings)\nAlways ensure the contract matches what was agreed verbally.",
+          "sources": [
+            {
+              "text": "Abu Dhabi tenancy guidelines: https://u.ae/en/information-and-services/housing (u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/housing"
+              ]
+            },
+            {
+              "text": "RERA-style best practices (Bayut): https://www.bayut.com",
+              "links": [
+                "https://www.bayut.com"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/housing",
+            "https://www.bayut.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Schools",
+      "entries": [
+        {
+          "id": 29,
+          "question": "How do I find and compare schools?",
+          "answerLabel": "Answer:",
+          "answer": "School selection in Abu Dhabi is centralized through ADEK (Abu Dhabi Department of Education and\nKnowledge). Their official portal provides school ratings, curriculum details, fees, inspection reports, and contact\ninformation. You can filter by curriculum, location, grade level, and performance. Private school comparison platforms\n(e.g., Edarabia) offer additional parent reviews.",
+          "sources": [
+            {
+              "text": "ADEK School Finder: https://www.adek.gov.ae",
+              "links": [
+                "https://www.adek.gov.ae"
+              ]
+            },
+            {
+              "text": "Edarabia Abu Dhabi Schools: https://www.edarabia.com/schools/abu-dhabi",
+              "links": [
+                "https://www.edarabia.com/schools/abu-dhabi"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.adek.gov.ae",
+            "https://www.edarabia.com/schools/abu-dhabi"
+          ]
+        },
+        {
+          "id": 30,
+          "question": "What curricula are available, and how do they compare to ours?",
+          "answerLabel": "Answer:",
+          "answer": "Abu Dhabi offers multiple international curricula:\n• British (UK)\n• American (US)\n• IB (International Baccalaureate)\n• Indian (CBSE/ICSE)\n• French\n• Canadian\n• UAE Ministry of Education curriculum\nBritish, American, and IB are the most common among expat families. ADEK provides detailed inspection reports\nexplaining academic standards, teaching quality, and curriculum alignment.",
+          "sources": [
+            {
+              "text": "ADEK Curriculum Overview: https://www.adek.gov.ae",
+              "links": [
+                "https://www.adek.gov.ae"
+              ]
+            },
+            {
+              "text": "IB Schools Directory: https://www.ibo.org",
+              "links": [
+                "https://www.ibo.org"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.adek.gov.ae",
+            "https://www.ibo.org"
+          ]
+        },
+        {
+          "id": 31,
+          "question": "What documents are needed for school enrolment?",
+          "answerLabel": "Answer:",
+          "answer": "Most schools require:\n• Child’s passport + residence visa\n• Birth certificate (attested if issued abroad)\n• Vaccination records\n• Previous school reports/transcripts\n• Transfer certificate (attested if required)\n• Emirates ID (or application receipt) Requirements vary slightly by curriculum and grade level.",
+          "sources": [
+            {
+              "text": "ADEK Enrolment Requirements: https://www.adek.gov.ae",
+              "links": [
+                "https://www.adek.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Education Services: https://u.ae/en/information-and-services/education (u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/education"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.adek.gov.ae",
+            "https://u.ae/en/information-and-services/education"
+          ]
+        },
+        {
+          "id": 32,
+          "question": "When does the school year start, and can children join mid-year?",
+          "answerLabel": "Answer:",
+          "answer": "Most Abu Dhabi schools begin the academic year in late August or early September. Yes, children can join\nmid-year depending on seat availability. Schools often accept mid-year transfers, especially for expat families arriving\nafter the term begins.",
+          "sources": [
+            {
+              "text": "ADEK Academic Calendar: https://www.adek.gov.ae",
+              "links": [
+                "https://www.adek.gov.ae"
+              ]
+            },
+            {
+              "text": "School-specific calendars (various): Search “Abu Dhabi school calendar”",
+              "links": []
+            }
+          ],
+          "links": [
+            "https://www.adek.gov.ae"
+          ]
+        },
+        {
+          "id": 33,
+          "question": "What are typical fees, and does my employer contribute?",
+          "answerLabel": "Answer:",
+          "answer": "Annual school fees vary widely:\n• Nursery: AED 20,000–50,000\n• Primary: AED 30,000–60,000\n• Secondary: AED 40,000–90,000+\nSome employers offer education allowances, especially for senior roles or government-linked entities. Check your\nemployment contract for details.",
+          "sources": [
+            {
+              "text": "ADEK School Fees Database: https://www.adek.gov.ae",
+              "links": [
+                "https://www.adek.gov.ae"
+              ]
+            },
+            {
+              "text": "Bayut School Fees Guide: https://www.bayut.com",
+              "links": [
+                "https://www.bayut.com"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.adek.gov.ae",
+            "https://www.bayut.com"
+          ]
+        },
+        {
+          "id": 34,
+          "question": "Is there a school bus, and how do I arrange it?",
+          "answerLabel": "Answer:",
+          "answer": "Most schools offer bus services through approved transport providers. You register directly with the school\nduring enrolment. Bus routes, fees, and pickup/drop-off schedules vary by school and location. ADEK regulates safety\nstandards for school transport.",
+          "sources": [
+            {
+              "text": "ADEK School Transport Regulations: https://www.adek.gov.ae",
+              "links": [
+                "https://www.adek.gov.ae"
+              ]
+            },
+            {
+              "text": "School-specific transport pages (various)",
+              "links": []
+            }
+          ],
+          "links": [
+            "https://www.adek.gov.ae"
+          ]
+        },
+        {
+          "id": 35,
+          "question": "What’s the process if my child needs learning support?",
+          "answerLabel": "Answer:",
+          "answer": "Abu Dhabi schools must comply with inclusive education policies. If your child needs learning support,\nschools typically offer:\n• Individual learning plans (ILPs)\n• Special education needs (SEN) coordinators\n• Additional support classes\n• External assessments (if required)\nADEK mandates that schools provide reasonable accommodations and cannot refuse admission solely based on\nlearning needs.",
+          "sources": [
+            {
+              "text": "ADEK Inclusive Education Policy: https://www.adek.gov.ae",
+              "links": [
+                "https://www.adek.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Inclusive Education: https://u.ae/en/information-and-services/education (u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/education"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.adek.gov.ae",
+            "https://u.ae/en/information-and-services/education"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Healthcare",
+      "entries": [
+        {
+          "id": 5,
+          "question": "What vaccinations or medical records should we bring?",
+          "answerLabel": "Answer:",
+          "answer": "You should bring full vaccination records for all family members, especially children, as schools and nurseries\noften require proof of immunisation (e.g., MMR, polio, DTP). For adults, bring records of chronic conditions,\nprescriptions, and any specialist reports. While the UAE does not usually require vaccination proof for residency itself,\nhaving complete records simplifies school enrolment, continuity of care, and insurance approvals.",
+          "sources": [
+            {
+              "text": "Abu Dhabi Department of Health (DoH): https://www.doh.gov.ae",
+              "links": [
+                "https://www.doh.gov.ae"
+              ]
+            },
+            {
+              "text": "Sample expat medical guidance – Launch in Dubai (Emirates ID & medical): https://launchindubai.com",
+              "links": [
+                "https://launchindubai.com"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.doh.gov.ae",
+            "https://launchindubai.com"
+          ]
+        },
+        {
+          "id": 36,
+          "question": "Is health insurance mandatory, and who provides it for my wife and children?",
+          "answerLabel": "Answer:",
+          "answer": "Yes — health insurance is mandatory for all Abu Dhabi residents. Under Abu Dhabi law, employers must\nprovide health insurance for employees, but dependents (wife and children) are usually the responsibility of the\nsponsoring resident. Some employers offer dependent coverage, but this is not guaranteed.\nYou must ensure your family has valid insurance before residency is fully activated. Insurance is typically arranged\nthrough approved providers such as Daman, ADNIC, or private insurers.",
+          "sources": [
+            {
+              "text": "DoH Abu Dhabi – Health Insurance Requirements: https://www.doh.gov.ae",
+              "links": [
+                "https://www.doh.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Health Insurance: https://u.ae/en/information-and-services/health-and-fitness/health-\ninsurance (u.ae in Bing) (bing.com in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/health-and-fitness/health-insurance"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.doh.gov.ae",
+            "https://u.ae/en/information-and-services/health-and-fitness/health-insurance"
+          ]
+        },
+        {
+          "id": 37,
+          "question": "How do I register with a doctor or clinic?",
+          "answerLabel": "Answer:",
+          "answer": "You do not “register” with a doctor in the UAE the way some countries require. Instead, once you have\nhealth insurance, you can visit any clinic or hospital within your insurance network. Your insurer’s app or website will\nshow:\n• Network hospitals\n• Network clinics\n• Co-pay amounts\n• Approval requirements\nFor chronic conditions, you may need referral letters depending on your insurance plan.",
+          "sources": [
+            {
+              "text": "DoH Abu Dhabi – Healthcare Facilities: https://www.doh.gov.ae",
+              "links": [
+                "https://www.doh.gov.ae"
+              ]
+            },
+            {
+              "text": "Daman Provider Network: https://www.damanhealth.ae",
+              "links": [
+                "https://www.damanhealth.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.doh.gov.ae",
+            "https://www.damanhealth.ae"
+          ]
+        },
+        {
+          "id": 38,
+          "question": "Where do I go in an emergency?",
+          "answerLabel": "Answer:",
+          "answer": "In Abu Dhabi, emergency care is available at major hospitals such as Sheikh Shakhbout Medical City (SSMC),\nCleveland Clinic Abu Dhabi, Burjeel Hospital, and Mediclinic branches. Dial 999 for police/emergency response and\n998 for ambulance services. Emergency treatment is provided regardless of insurance status, but follow-up care may\nrequire approval.",
+          "sources": [
+            {
+              "text": "Abu Dhabi Emergency Services: https://u.ae/en/information-and-services/justice-and-safety/emergency-\nnumbers (u.ae in Bing) (bing.com in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/justice-and-safety/emergency-numbers"
+              ]
+            },
+            {
+              "text": "SSMC: https://www.ssmc.ae",
+              "links": [
+                "https://www.ssmc.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/justice-and-safety/emergency-numbers",
+            "https://www.ssmc.ae"
+          ]
+        },
+        {
+          "id": 39,
+          "question": "Can I get my regular prescription medication here?",
+          "answerLabel": "Answer:",
+          "answer": "Most common prescription medications are available in Abu Dhabi. Bring your existing prescriptions and\ndoctor’s reports, especially for controlled medications. Some medicines are classified as controlled substances and\nrequire:\n• A local doctor’s consultation\n• A UAE prescription\n• Possible approval from the Ministry of Health\nAlways check whether your medication is allowed before arrival.",
+          "sources": [
+            {
+              "text": "UAE Controlled Medicines List (MoHAP): https://www.mohap.gov.ae",
+              "links": [
+                "https://www.mohap.gov.ae"
+              ]
+            },
+            {
+              "text": "DoH Abu Dhabi – Pharmacy Services: https://www.doh.gov.ae",
+              "links": [
+                "https://www.doh.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.mohap.gov.ae",
+            "https://www.doh.gov.ae"
+          ]
+        },
+        {
+          "id": 40,
+          "question": "Is my wife's maternity care covered?",
+          "answerLabel": "Answer:",
+          "answer": "Maternity coverage depends on your insurance plan. Most Abu Dhabi insurance policies include:\n• Prenatal checkups\n• Scans\n• Delivery (normal or C-section)\n• Postnatal care\nHowever, coverage limits vary widely. Some plans require a waiting period (often 6–12 months) before maternity\nbenefits activate. Always confirm coverage details with your insurer.",
+          "sources": [
+            {
+              "text": "DoH Abu Dhabi – Maternity Services: https://www.doh.gov.ae",
+              "links": [
+                "https://www.doh.gov.ae"
+              ]
+            },
+            {
+              "text": "Daman Maternity Coverage: https://www.damanhealth.ae",
+              "links": [
+                "https://www.damanhealth.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.doh.gov.ae",
+            "https://www.damanhealth.ae"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Daily Life",
+      "entries": [
+        {
+          "id": 7,
+          "question": "Can we ship household goods, and what's restricted?",
+          "answerLabel": "Answer:",
+          "answer": "Yes, you can ship household goods to Abu Dhabi using international movers. Standard household items are\ngenerally allowed, but restricted or prohibited items include: weapons, certain chemicals, counterfeit goods, and\nmaterials that violate local cultural or religious norms. Some electronics or communications equipment may require\napproval. Your mover will usually provide a customs compliance list, and you should check UAE customs regulations\nbefore shipping.",
+          "sources": [
+            {
+              "text": "UAE Federal Customs Authority: https://www.customs.gov.ae",
+              "links": [
+                "https://www.customs.gov.ae"
+              ]
+            },
+            {
+              "text": "Abu Dhabi Customs: https://www.abudhabi.ae",
+              "links": [
+                "https://www.abudhabi.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.customs.gov.ae",
+            "https://www.abudhabi.ae"
+          ]
+        },
+        {
+          "id": 8,
+          "question": "Can we bring our pet?",
+          "answerLabel": "Answer:",
+          "answer": "Yes, many families bring pets to Abu Dhabi, but you must comply with UAE pet import rules. This typically\nincludes: microchipping, valid vaccinations (especially rabies), health certificate, and sometimes serology tests, plus\nan import permit issued by the UAE authorities. Certain breeds may be restricted. Airlines also have their own rules\nfor pet transport, so you must coordinate both UAE import regulations and airline policies.",
+          "sources": [
+            {
+              "text": "UAE Ministry of Climate Change & Environment – Pet import: https://www.moccae.gov.ae",
+              "links": [
+                "https://www.moccae.gov.ae"
+              ]
+            },
+            {
+              "text": "Abu Dhabi Municipality – Veterinary & pet regulations: https://www.abudhabi.ae",
+              "links": [
+                "https://www.abudhabi.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.moccae.gov.ae",
+            "https://www.abudhabi.ae"
+          ]
+        },
+        {
+          "id": 10,
+          "question": "What's the best time of year to arrive?",
+          "answerLabel": "Answer (practical, not official):",
+          "answer": "From a comfort and logistics perspective, many families prefer arriving between\nOctober and March, when temperatures are milder and the school year is in progress. Arriving just before the school\nyear (August/September) can also make sense if you’re focused on enrolment, but it’s hotter and more intense. There\nis no “official best time,” but avoiding peak summer heat and aligning with school and work cycles usually makes the\ntransition smoother.",
+          "sources": [
+            {
+              "text": "Abu Dhabi tourism & climate information: https://visitabudhabi.ae",
+              "links": [
+                "https://visitabudhabi.ae"
+              ]
+            },
+            {
+              "text": "School calendars (various Abu Dhabi schools): https://adek.gov.ae",
+              "links": [
+                "https://adek.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://visitabudhabi.ae",
+            "https://adek.gov.ae"
+          ]
+        },
+        {
+          "id": 14,
+          "question": "How do I get a local SIM card?",
+          "answerLabel": "Answer:",
+          "answer": "You can purchase a SIM card from Etisalat or du at airports, malls, or service centers. You must present your\npassport and entry permit or residency visa. Tourist SIMs are available immediately; resident SIMs require Emirates\nID or the application receipt.",
+          "sources": [
+            {
+              "text": "Etisalat: https://www.etisalat.ae",
+              "links": [
+                "https://www.etisalat.ae"
+              ]
+            },
+            {
+              "text": "du: https://www.du.ae",
+              "links": [
+                "https://www.du.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.etisalat.ae",
+            "https://www.du.ae"
+          ]
+        },
+        {
+          "id": 41,
+          "question": "Can I drive on my home licence, and for how long?",
+          "answerLabel": "Answer:",
+          "answer": "If you hold a licence from an approved country (e.g., UK, US, Canada, EU, Australia, New Zealand, South\nAfrica), you may drive in the UAE temporarily on your home licence until your residency visa is issued. Once you\nbecome a resident, you must convert your licence to a UAE licence. Tourists can drive on their home licence +\ninternational driving permit.",
+          "sources": [
+            {
+              "text": "Abu Dhabi Police – Driving Licence Services: https://www.adpolice.gov.ae",
+              "links": [
+                "https://www.adpolice.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Driving in the UAE: https://u.ae/en/information-and-services/transport/driving-in-the-\nuae",
+              "links": [
+                "https://u.ae/en/information-and-services/transport/driving-in-the-uae"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.adpolice.gov.ae",
+            "https://u.ae/en/information-and-services/transport/driving-in-the-uae"
+          ]
+        },
+        {
+          "id": 42,
+          "question": "How do I convert my driving licence?",
+          "answerLabel": "Answer:",
+          "answer": "Residents from approved countries can convert their licence without a driving test. You will need:\n• Emirates ID\n• Passport + visa\n• Original home-country licence\n• Eye test\n• Fee payment\nConversion is done through TAMM or Abu Dhabi Police service centers. Residents from non-approved countries must\ntake driving lessons and pass the UAE driving test.",
+          "sources": [
+            {
+              "text": "TAMM – Driving Licence Conversion: https://www.tamm.abudhabi",
+              "links": [
+                "https://www.tamm.abudhabi"
+              ]
+            },
+            {
+              "text": "Abu Dhabi Police – Licence Services: https://www.adpolice.gov.ae",
+              "links": [
+                "https://www.adpolice.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.tamm.abudhabi",
+            "https://www.adpolice.gov.ae"
+          ]
+        },
+        {
+          "id": 43,
+          "question": "How do I buy or lease a car, and what insurance is needed?",
+          "answerLabel": "Answer:",
+          "answer": "You can buy a car through dealerships (new or certified used) or private sellers. Leasing is available through\nmajor rental companies (e.g., Hertz, Thrifty, Dollar). To register a car, you need:\n• Emirates ID\n• Valid UAE driving licence\n• Insurance policy\n• Vehicle inspection (for used cars)\nInsurance is mandatory. Options include:\n• Third-party liability (minimum legal requirement)\n• Comprehensive insurance (recommended for new or financed cars)",
+          "sources": [
+            {
+              "text": "Abu Dhabi Police – Vehicle Registration: https://www.adpolice.gov.ae",
+              "links": [
+                "https://www.adpolice.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Vehicle Services: https://u.ae/en/information-and-services/transport/vehicles",
+              "links": [
+                "https://u.ae/en/information-and-services/transport/vehicles"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.adpolice.gov.ae",
+            "https://u.ae/en/information-and-services/transport/vehicles"
+          ]
+        },
+        {
+          "id": 44,
+          "question": "Is public transport practical for daily use?",
+          "answerLabel": "Answer:",
+          "answer": "Abu Dhabi’s public transport system includes buses, taxis, and ride-hailing apps. Buses are reliable and\naffordable, but coverage varies by area — excellent in central Abu Dhabi, limited in outer suburbs. Many families rely\non cars for daily commuting due to heat and distance. Taxis and apps (Careem, Uber) are widely available.",
+          "sources": [
+            {
+              "text": "Abu Dhabi Integrated Transport Centre (ITC): https://itc.gov.ae",
+              "links": [
+                "https://itc.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Public Transport: https://u.ae/en/information-and-services/transport/public-transport",
+              "links": [
+                "https://u.ae/en/information-and-services/transport/public-transport"
+              ]
+            }
+          ],
+          "links": [
+            "https://itc.gov.ae",
+            "https://u.ae/en/information-and-services/transport/public-transport"
+          ]
+        },
+        {
+          "id": 45,
+          "question": "How do I get a Hafilat card or use taxis and ride apps?",
+          "answerLabel": "Answer:",
+          "answer": "The Hafilat card is Abu Dhabi’s bus payment card. You can purchase and top it up at:\n• Bus stations\n• Ticket vending machines\n• ITC customer centers\nTaxis can be booked via:\n• TransAD dispatch\n• Careem\n• Uber\n• Street pickup\nRide-hailing apps require a UAE mobile number and valid payment method.",
+          "sources": [
+            {
+              "text": "ITC – Hafilat Card Info: https://itc.gov.ae",
+              "links": [
+                "https://itc.gov.ae"
+              ]
+            },
+            {
+              "text": "TransAD Taxi Services: https://itc.gov.ae",
+              "links": [
+                "https://itc.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://itc.gov.ae",
+            "https://itc.gov.ae"
+          ]
+        },
+        {
+          "id": 46,
+          "question": "What laws or customs should we be aware of that differ from home?",
+          "answerLabel": "Answer:",
+          "answer": "Abu Dhabi is welcoming and multicultural, but there are important laws and customs to respect:\n• Public behavior: Avoid public displays of affection; respect modesty norms.\n• Alcohol: Only permitted in licensed venues; drunk driving is zero-tolerance.\n• Photography: Avoid photographing government buildings or people without consent.\n• Dress code: Modest clothing recommended in public places.\n• Respect for religion: Avoid loud behavior near mosques; Friday is a holy day.\n• Drugs: Zero-tolerance; penalties are severe.\nThese norms ensure smooth integration and avoid legal issues.",
+          "sources": [
+            {
+              "text": "UAE Government – Social etiquette & laws: https://u.ae/en/information-and-services/justice-and-\nsafety/social-etiquette-and-laws-in-the-uae",
+              "links": [
+                "https://u.ae/en/information-and-services/justice-and-safety/social-etiquette-and-laws-in-the-uae"
+              ]
+            },
+            {
+              "text": "Abu Dhabi Tourism – Cultural guidance: https://visitabudhabi.ae",
+              "links": [
+                "https://visitabudhabi.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/justice-and-safety/social-etiquette-and-laws-in-the-uae",
+            "https://visitabudhabi.ae"
+          ]
+        },
+        {
+          "id": 47,
+          "question": "What should we expect during Ramadan?",
+          "answerLabel": "Answer:",
+          "answer": "During Ramadan:\n• Working hours are reduced.\n• Many restaurants remain open but may have screened dining areas.\n• Eating, drinking, or smoking in public during daylight hours is discouraged.\n• The city becomes more social in the evenings, with Iftar and Suhoor gatherings.\n• Malls and restaurants stay open later.\nRamadan is a peaceful, family-oriented period and newcomers often enjoy the cultural experience.",
+          "sources": [
+            {
+              "text": "UAE Government – Ramadan guidelines: https://u.ae/en/information-and-services/justice-and-safety/social-\netiquette-and-laws-in-the-uae",
+              "links": [
+                "https://u.ae/en/information-and-services/justice-and-safety/social-etiquette-and-laws-in-the-uae"
+              ]
+            },
+            {
+              "text": "Visit Abu Dhabi – Ramadan in the UAE: https://visitabudhabi.ae",
+              "links": [
+                "https://visitabudhabi.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/justice-and-safety/social-etiquette-and-laws-in-the-uae",
+            "https://visitabudhabi.ae"
+          ]
+        },
+        {
+          "id": 50,
+          "question": "Where can we find community groups, places of worship, or newcomer networks?",
+          "answerLabel": "Answer:",
+          "answer": "Abu Dhabi offers diverse community hubs:\n• Places of worship: Mosques, churches, temples (Hindu temple in Abu Dhabi), Sikh gurdwaras.\n• Community groups: Expat clubs, cultural associations, sports groups.\n• Newcomer networks: Internations, Meetup groups, Facebook expat communities.\n• Cultural centers: Manarat Al Saadiyat, Qasr Al Hosn, Louvre Abu Dhabi events.\nThese spaces help families integrate socially and culturally.",
+          "sources": [
+            {
+              "text": "Places of Worship Directory (UAE Government): https://u.ae/en/information-and-services/justice-and-\nsafety/places-of-worship",
+              "links": [
+                "https://u.ae/en/information-and-services/justice-and-safety/places-of-worship"
+              ]
+            },
+            {
+              "text": "Visit Abu Dhabi – Community & Culture: https://visitabudhabi.ae",
+              "links": [
+                "https://visitabudhabi.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/justice-and-safety/places-of-worship",
+            "https://visitabudhabi.ae"
+          ]
+        },
+        {
+          "id": 67,
+          "question": "How do I register a home address officially?",
+          "answerLabel": "Answer:",
+          "answer": "Your home address in Abu Dhabi is officially registered through your Tawtheeq tenancy contract. Once\nTawtheeq is issued, your address is automatically linked to your Emirates ID and appears in government systems such\nas TAMM, ICP, and MoHRE. If you move, your landlord or agent must update Tawtheeq, which updates your address\nacross government platforms.",
+          "sources": [
+            {
+              "text": "Tawtheeq (TAMM): https://www.tamm.abudhabi",
+              "links": [
+                "https://www.tamm.abudhabi"
+              ]
+            },
+            {
+              "text": "UAE Government – Housing Services: https://u.ae/en/information-and-services/housing (u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/housing"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.tamm.abudhabi",
+            "https://u.ae/en/information-and-services/housing"
+          ]
+        },
+        {
+          "id": 68,
+          "question": "How do I get a PO Box or receive mail?",
+          "answerLabel": "Answer:",
+          "answer": "The UAE does not deliver mail directly to homes. You must either:\n• Rent a PO Box from Emirates Post, or\n• Use a MyHome service (delivery to your building), or\n• Receive packages via courier companies (Aramex, DHL, FedEx)\nPO Boxes can be rented online and activated immediately.",
+          "sources": [
+            {
+              "text": "Emirates Post – PO Box Services: https://www.emiratespost.ae",
+              "links": [
+                "https://www.emiratespost.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Postal Services: https://u.ae/en/information-and-services/transport/postal-services (u.ae\nin Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/transport/postal-services"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.emiratespost.ae",
+            "https://u.ae/en/information-and-services/transport/postal-services"
+          ]
+        },
+        {
+          "id": 69,
+          "question": "What are typical utility bills per month?",
+          "answerLabel": "Answer:",
+          "answer": "Utility bills vary by apartment size and usage:\n• 1BR: AED 200–350/month\n• 2BR: AED 300–500/month\n• 3BR: AED 450–700/month If your building has district cooling, you may pay an additional AED 300–\n600/month depending on provider and usage.",
+          "sources": [
+            {
+              "text": "ADDC – Electricity & Water: https://www.addc.ae",
+              "links": [
+                "https://www.addc.ae"
+              ]
+            },
+            {
+              "text": "Abu Dhabi Cooling Providers (Tabreed, Empower)",
+              "links": []
+            }
+          ],
+          "links": [
+            "https://www.addc.ae"
+          ]
+        },
+        {
+          "id": 70,
+          "question": "Where do I shop for groceries, and what will cost more than at home?",
+          "answerLabel": "Answer:",
+          "answer": "Popular grocery stores include Carrefour, Lulu, Spinneys, Waitrose, and Coop. Imported goods (cheese,\nberries, specialty items) are more expensive, while local produce, poultry, and staples are reasonably priced. Online\ngrocery delivery is widely available via Careem, Instashop, and Carrefour Online.",
+          "sources": [
+            {
+              "text": "Carrefour UAE: https://www.carrefouruae.com",
+              "links": [
+                "https://www.carrefouruae.com"
+              ]
+            },
+            {
+              "text": "Lulu Hypermarket: https://www.luluhypermarket.com",
+              "links": [
+                "https://www.luluhypermarket.com"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.carrefouruae.com",
+            "https://www.luluhypermarket.com"
+          ]
+        },
+        {
+          "id": 71,
+          "question": "Are alcohol and pork available, and what are the rules?",
+          "answerLabel": "Answer:",
+          "answer": "Yes — alcohol and pork are available in licensed stores and restaurants. Rules:\n• Alcohol purchase requires no special permit in Abu Dhabi.\n• Consumption is allowed in licensed venues and private homes.\n• Drunk driving is strictly zero-tolerance.\n• Pork is sold in designated sections of major supermarkets.",
+          "sources": [
+            {
+              "text": "Abu Dhabi Tourism – Dining & Nightlife: https://visitabudhabi.ae",
+              "links": [
+                "https://visitabudhabi.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Social Etiquette & Laws: https://u.ae/en/information-and-services/justice-and-\nsafety/social-etiquette-and-laws-in-the-uae (u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/justice-and-safety/social-etiquette-and-laws-in-the-uae"
+              ]
+            }
+          ],
+          "links": [
+            "https://visitabudhabi.ae",
+            "https://u.ae/en/information-and-services/justice-and-safety/social-etiquette-and-laws-in-the-uae"
+          ]
+        },
+        {
+          "id": 72,
+          "question": "How do I dispose of bulky waste or recycle?",
+          "answerLabel": "Answer:",
+          "answer": "Abu Dhabi Municipality provides free bulky waste collection. You can request pickup through TAMM.\nRecycling bins are available in many communities for paper, plastic, and glass. Some areas also have dedicated\nrecycling centers.",
+          "sources": [
+            {
+              "text": "TAMM – Waste Management Services: https://www.tamm.abudhabi",
+              "links": [
+                "https://www.tamm.abudhabi"
+              ]
+            },
+            {
+              "text": "Abu Dhabi Municipality: https://www.abudhabi.ae",
+              "links": [
+                "https://www.abudhabi.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.tamm.abudhabi",
+            "https://www.abudhabi.ae"
+          ]
+        },
+        {
+          "id": 73,
+          "question": "What apps does everyone here use (delivery, government, transport)?",
+          "answerLabel": "Answer:",
+          "answer": "Common apps include:\n• Government: UAE Pass, TAMM, ICP Smart Services\n• Transport: Careem, Uber, Hafilat, Abu Dhabi Taxi\n• Delivery: Talabat, Deliveroo, Careem Food\n• Groceries: Instashop, Carrefour Online\n• Utilities: ADDC, Etisalat, du\nThese apps make daily life significantly easier.",
+          "sources": [
+            {
+              "text": "UAE Pass: https://www.uaepass.ae",
+              "links": [
+                "https://www.uaepass.ae"
+              ]
+            },
+            {
+              "text": "TAMM: https://www.tamm.abudhabi",
+              "links": [
+                "https://www.tamm.abudhabi"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.uaepass.ae",
+            "https://www.tamm.abudhabi"
+          ]
+        },
+        {
+          "id": 74,
+          "question": "Can I get domestic help, and how is a housemaid visa sponsored?",
+          "answerLabel": "Answer:",
+          "answer": "Yes — domestic workers can be hired through:\n• Tadbeer centers (government-approved)\n• Licensed agencies\n• Direct sponsorship (if eligible)\nTo sponsor a maid directly, you must meet salary requirements and provide accommodation. The process includes:\n• Entry permit\n• Medical fitness test\n• Emirates ID\n• Visa stamping\nTadbeer offers full-service packages including recruitment, visas, and training.",
+          "sources": [
+            {
+              "text": "Tadbeer Domestic Worker Services: https://www.tadbeer.ae",
+              "links": [
+                "https://www.tadbeer.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Domestic Worker Rules: https://u.ae/en/information-and-services/jobs/domestic-\nworkers (u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/jobs/domestic-workers"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.tadbeer.ae",
+            "https://u.ae/en/information-and-services/jobs/domestic-workers"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Family",
+      "entries": [
+        {
+          "id": 18,
+          "question": "Can my wife work on my sponsorship?",
+          "answerLabel": "Answer:",
+          "answer": "Yes. She can work while sponsored by you, but she must obtain a work permit from the Ministry of Human\nResources and Emiratisation (MoHRE). The employer issues the permit; she does not need a separate employment\nvisa.",
+          "sources": [
+            {
+              "text": "MoHRE Work Permits: https://www.mohre.gov.ae",
+              "links": [
+                "https://www.mohre.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.mohre.gov.ae"
+          ]
+        },
+        {
+          "id": 49,
+          "question": "How does my wife meet people if she isn't working?",
+          "answerLabel": "Answer:",
+          "answer": "Abu Dhabi has many ways for spouses to build social networks:\n• Community groups (Facebook, Meetup, Internations)\n• Fitness classes, yoga studios, and sports clubs\n• Volunteering opportunities\n• Parent groups at schools and nurseries\n• Cultural centers and workshops\n• Expat women’s networks (e.g., Abu Dhabi Moms, Women’s Circle)\nSocial life is active and newcomers integrate quickly.",
+          "sources": [
+            {
+              "text": "Abu Dhabi Community Groups (Visit Abu Dhabi): https://visitabudhabi.ae",
+              "links": [
+                "https://visitabudhabi.ae"
+              ]
+            },
+            {
+              "text": "Internations Abu Dhabi: https://www.internations.org",
+              "links": [
+                "https://www.internations.org"
+              ]
+            }
+          ],
+          "links": [
+            "https://visitabudhabi.ae",
+            "https://www.internations.org"
+          ]
+        },
+        {
+          "id": 75,
+          "question": "Can my wife open her own bank account?",
+          "answerLabel": "Answer:",
+          "answer": "Yes — once she has her residence visa and Emirates ID (or the Emirates ID application receipt), she can open\nher own bank account. Most banks allow dependents to open:\n• Savings accounts\n• Current accounts\n• Credit cards (subject to income requirements)\nShe does not need to be employed to open a basic account.",
+          "sources": [
+            {
+              "text": "UAE Government – Banking Services: https://u.ae/en/information-and-services/finance-and-investment",
+              "links": [
+                "https://u.ae/en/information-and-services/finance-and-investment"
+              ]
+            },
+            {
+              "text": "Major banks (ADCB, FAB, Emirates NBD)",
+              "links": []
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/finance-and-investment"
+          ]
+        },
+        {
+          "id": 76,
+          "question": "Can my wife study or take courses here?",
+          "answerLabel": "Answer:",
+          "answer": "Yes — she can enroll in:\n• Universities\n• Training institutes\n• Professional certification programs\n• Language schools\n• Online courses with UAE accreditation\nMost institutions accept dependent visas. Some professional programs may require additional documentation.",
+          "sources": [
+            {
+              "text": "UAE Government – Education Services: https://u.ae/en/information-and-services/education",
+              "links": [
+                "https://u.ae/en/information-and-services/education"
+              ]
+            },
+            {
+              "text": "ADEK Higher Education Directory: https://www.adek.gov.ae",
+              "links": [
+                "https://www.adek.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/education",
+            "https://www.adek.gov.ae"
+          ]
+        },
+        {
+          "id": 77,
+          "question": "Can my wife sponsor a family member to visit?",
+          "answerLabel": "Answer:",
+          "answer": "Yes — if she holds a valid UAE residence visa, she can sponsor visit visas for:\n• Parents\n• Siblings\n• Other relatives (depending on category)\nRequirements include:\n• Proof of relationship\n• Financial capability\n• Valid Emirates ID\n• Passport copies of the visitor",
+          "sources": [
+            {
+              "text": "ICP – Visit Visa Services: https://smartservices.icp.gov.ae",
+              "links": [
+                "https://smartservices.icp.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Visit Visas: https://u.ae/en/information-and-services/visa-and-emirates-id/visit-visas",
+              "links": [
+                "https://u.ae/en/information-and-services/visa-and-emirates-id/visit-visas"
+              ]
+            }
+          ],
+          "links": [
+            "https://smartservices.icp.gov.ae",
+            "https://u.ae/en/information-and-services/visa-and-emirates-id/visit-visas"
+          ]
+        },
+        {
+          "id": 78,
+          "question": "How do we get a visit visa for my parents?",
+          "answerLabel": "Answer:",
+          "answer": "You can apply through ICP Smart Services or TAMM. Required documents:\n• Your Emirates ID\n• Your passport + visa\n• Parents’ passport copies\n• Proof of relationship (birth certificate)\n• Financial proof (salary certificate or bank statement)\nVisit visas are typically issued for 30, 60, or 90 days, with extension options.",
+          "sources": [
+            {
+              "text": "ICP – Visit Visa Application: https://smartservices.icp.gov.ae",
+              "links": [
+                "https://smartservices.icp.gov.ae"
+              ]
+            },
+            {
+              "text": "TAMM – Visa Services: https://www.tamm.abudhabi",
+              "links": [
+                "https://www.tamm.abudhabi"
+              ]
+            }
+          ],
+          "links": [
+            "https://smartservices.icp.gov.ae",
+            "https://www.tamm.abudhabi"
+          ]
+        },
+        {
+          "id": 79,
+          "question": "Can my parents live with us long-term?",
+          "answerLabel": "Answer:",
+          "answer": "Yes — but only under specific residency categories. Options include:\n• Family residency sponsorship (salary requirements apply)\n• Long-term visit visas\n• Golden Visa (if they qualify through investment or special categories)\nParent sponsorship requires higher salary thresholds and proof of dependency.",
+          "sources": [
+            {
+              "text": "UAE Government – Sponsoring Parents: https://u.ae/en/information-and-services/visa-and-emirates-\nid/residence-visa/sponsoring-family-members",
+              "links": [
+                "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visa/sponsoring-family-members"
+              ]
+            },
+            {
+              "text": "ICP – Residency Services: https://smartservices.icp.gov.ae",
+              "links": [
+                "https://smartservices.icp.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visa/sponsoring-family-members",
+            "https://smartservices.icp.gov.ae"
+          ]
+        },
+        {
+          "id": 80,
+          "question": "What childcare or nursery options exist for under-fours?",
+          "answerLabel": "Answer:",
+          "answer": "Abu Dhabi has many nurseries offering:\n• British EYFS curriculum\n• Montessori programs\n• Play-based learning\n• Bilingual Arabic-English options\nNurseries are regulated by ADEK, which provides inspection reports and licensing information.",
+          "sources": [
+            {
+              "text": "ADEK Nursery Directory: https://www.adek.gov.ae",
+              "links": [
+                "https://www.adek.gov.ae"
+              ]
+            },
+            {
+              "text": "Edarabia Nursery Listings: https://www.edarabia.com/nurseries/abu-dhabi",
+              "links": [
+                "https://www.edarabia.com/nurseries/abu-dhabi"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.adek.gov.ae",
+            "https://www.edarabia.com/nurseries/abu-dhabi"
+          ]
+        },
+        {
+          "id": 81,
+          "question": "What happens if we have a baby here — birth certificate, visa, passport?",
+          "answerLabel": "Answer:",
+          "answer": "If your baby is born in Abu Dhabi:\n1. Birth notification is issued by the hospital.\n2. You apply for the birth certificate through TAMM.\n3. You get the certificate attested by MoFAIC.\n4. Apply for your baby’s passport through your embassy.\n5. Apply for your baby’s residence visa through ICP.\nYou must complete residency procedures within 120 days of birth.",
+          "sources": [
+            {
+              "text": "TAMM – Birth Certificate Services: https://www.tamm.abudhabi",
+              "links": [
+                "https://www.tamm.abudhabi"
+              ]
+            },
+            {
+              "text": "ICP – Newborn Residency Visa: https://smartservices.icp.gov.ae",
+              "links": [
+                "https://smartservices.icp.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.tamm.abudhabi",
+            "https://smartservices.icp.gov.ae"
+          ]
+        },
+        {
+          "id": 82,
+          "question": "Is there paternity leave?",
+          "answerLabel": "Answer:",
+          "answer": "Yes — UAE Labour Law grants 5 days of paid paternity leave for private-sector employees. Leave can be\ntaken within 6 months of the child’s birth.",
+          "sources": [
+            {
+              "text": "MoHRE – Leave Entitlements: https://www.mohre.gov.ae",
+              "links": [
+                "https://www.mohre.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Labour Law (2021): https://u.ae/en/information-and-services/jobs/employment-contracts",
+              "links": [
+                "https://u.ae/en/information-and-services/jobs/employment-contracts"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.mohre.gov.ae",
+            "https://u.ae/en/information-and-services/jobs/employment-contracts"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Money & Banking",
+      "entries": [
+        {
+          "id": 6,
+          "question": "How much cash or savings should we have for the first two months?",
+          "answerLabel": "Answer (guidance, not a legal rule):",
+          "answer": "For a family, a practical rule of thumb is to have 2–3 months of living costs\navailable in cash or easily accessible savings. This typically covers: rent and deposit, school application fees,\ntransport, groceries, basic furniture, and unexpected admin costs. In Abu Dhabi, many families budget AED 20,000–\n40,000 for initial setup, depending on housing choice and school fees. This is not a legal requirement, but a practical\nplanning figure based on typical expat costs.",
+          "sources": [
+            {
+              "text": "BusinessDubai – UAE residence visa chain & costs: https://businessdubai.ae",
+              "links": [
+                "https://businessdubai.ae"
+              ]
+            },
+            {
+              "text": "Abu Dhabi cost-of-living and housing guides (various): https://u.ae/en/information-and-services/housing",
+              "links": [
+                "https://u.ae/en/information-and-services/housing"
+              ]
+            }
+          ],
+          "links": [
+            "https://businessdubai.ae",
+            "https://u.ae/en/information-and-services/housing"
+          ]
+        },
+        {
+          "id": 13,
+          "question": "Can I open a bank account before my Emirates ID arrives?",
+          "answerLabel": "Answer:",
+          "answer": "Most banks require at least the Emirates ID application receipt or residency visa stamp to open an account.\nA few banks allow “non-resident accounts” or “salary transfer accounts” with passport + entry permit, but full\naccounts typically require Emirates ID. Always check with the bank directly.",
+          "sources": [
+            {
+              "text": "UAE Government – Banking for residents: https://u.ae/en/information-and-services/finance-and-investment\n(u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/finance-and-investment"
+              ]
+            },
+            {
+              "text": "Bank-specific onboarding pages (ADCB, FAB, Emirates NBD)",
+              "links": []
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/finance-and-investment"
+          ]
+        },
+        {
+          "id": 51,
+          "question": "How do I get my salary paid — what is WPS?",
+          "answerLabel": "Answer:",
+          "answer": "In Abu Dhabi, salaries are paid through the Wage Protection System (WPS), a government-mandated payroll\nsystem that ensures employees receive their salaries on time and in full. Your employer must:\n• Register you in WPS\n• Transfer your salary through an approved bank or exchange house\n• Follow UAE labour regulations for payment timing\nYou simply provide your bank account details once your account is opened.",
+          "sources": [
+            {
+              "text": "MoHRE – Wage Protection System: https://www.mohre.gov.ae",
+              "links": [
+                "https://www.mohre.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – WPS Overview: https://u.ae/en/information-and-services/jobs/wage-protection-system\n(u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/jobs/wage-protection-system"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.mohre.gov.ae",
+            "https://u.ae/en/information-and-services/jobs/wage-protection-system"
+          ]
+        },
+        {
+          "id": 52,
+          "question": "What do I need to open a bank account, and which banks are newcomer-friendly?",
+          "answerLabel": "Answer:",
+          "answer": "To open a resident bank account, you typically need:\n• Passport + residence visa\n• Emirates ID (or application receipt)\n• Salary certificate or employment contract\n• Proof of address (Tawtheeq or tenancy contract)\nNewcomer-friendly banks include ADCB, FAB, Emirates NBD, Mashreq, and HSBC, all of which have expat onboarding\nprocesses.",
+          "sources": [
+            {
+              "text": "UAE Government – Banking Services: https://u.ae/en/information-and-services/finance-and-investment (u.ae\nin Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/finance-and-investment"
+              ]
+            },
+            {
+              "text": "Bank onboarding pages (ADCB, FAB, Emirates NBD)",
+              "links": []
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/finance-and-investment"
+          ]
+        },
+        {
+          "id": 53,
+          "question": "Can I get a credit card in the first year?",
+          "answerLabel": "Answer:",
+          "answer": "Yes — most banks issue credit cards to new residents once you have:\n• A salary account\n• A minimum monthly income (often AED 5,000–10,000 depending on the card)\n• A stable employment contract\nSome banks may require 3 months of salary history, but many issue cards immediately for eligible salary brackets.",
+          "sources": [
+            {
+              "text": "UAE Government – Banking & Credit: https://u.ae/en/information-and-services/finance-and-investment\n(u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/finance-and-investment"
+              ]
+            },
+            {
+              "text": "Bank credit card eligibility pages (varies by bank)",
+              "links": []
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/finance-and-investment"
+          ]
+        },
+        {
+          "id": 54,
+          "question": "How do I transfer money home cheaply?",
+          "answerLabel": "Answer:",
+          "answer": "You can transfer money using:\n• Bank transfers (convenient but sometimes higher fees)\n• Exchange houses (Al Ansari, Lulu Exchange, UAE Exchange)\n• Online remittance apps (Wise, Remitly, Western Union digital)\nExchange houses and digital apps often offer the best rates and lowest fees.",
+          "sources": [
+            {
+              "text": "UAE Government – Financial Services: https://u.ae/en/information-and-services/finance-and-investment\n(u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/finance-and-investment"
+              ]
+            },
+            {
+              "text": "Major exchange houses (Al Ansari, Lulu Exchange)",
+              "links": []
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/finance-and-investment"
+          ]
+        },
+        {
+          "id": 55,
+          "question": "Is there income tax, and what about tax obligations back home?",
+          "answerLabel": "Answer:",
+          "answer": "The UAE does not impose personal income tax on salaries. However, you may still have tax obligations in\nyour home country, depending on:\n• Residency rules\n• Worldwide income laws\n• Double taxation agreements\nAlways check with a tax advisor familiar with your home country’s regulations.",
+          "sources": [
+            {
+              "text": "UAE Government – Taxation: https://u.ae/en/information-and-services/finance-and-investment/taxation\n(u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/finance-and-investment/taxation"
+              ]
+            },
+            {
+              "text": "Home-country tax authority websites (varies)",
+              "links": []
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/finance-and-investment/taxation"
+          ]
+        },
+        {
+          "id": 56,
+          "question": "What is end-of-service gratuity and how is it calculated?",
+          "answerLabel": "Answer:",
+          "answer": "End-of-service gratuity is a lump-sum payment given when you leave your job. Calculation:\n• 21 days of basic salary per year for the first 5 years\n• 30 days of basic salary per year after 5 years It is based on basic salary, not total compensation.",
+          "sources": [
+            {
+              "text": "MoHRE – End-of-Service Benefits: https://www.mohre.gov.ae",
+              "links": [
+                "https://www.mohre.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+              "links": []
+            }
+          ],
+          "links": [
+            "https://www.mohre.gov.ae"
+          ]
+        },
+        {
+          "id": 57,
+          "question": "Do I need a will here, and what happens to my assets if I die in the UAE?",
+          "answerLabel": "Answer:",
+          "answer": "It is strongly recommended for expats to have a UAE-registered will, especially if you have family and assets\nin the country. Without a will, local courts may distribute assets according to UAE personal status laws, which may\ndiffer from your home country’s inheritance rules. You can register a will through:\n• ADJD (Abu Dhabi Judicial Department)\n• DIFC Wills Service Centre (Dubai, but valid for Abu Dhabi assets)",
+          "sources": [
+            {
+              "text": "ADJD Wills Registration: https://www.adjd.gov.ae",
+              "links": [
+                "https://www.adjd.gov.ae"
+              ]
+            },
+            {
+              "text": "DIFC Wills Service: https://www.difcprobate.ae",
+              "links": [
+                "https://www.difcprobate.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.adjd.gov.ae",
+            "https://www.difcprobate.ae"
+          ]
+        },
+        {
+          "id": 58,
+          "question": "How do I budget for annual costs like school fees, rent cheques and insurance?",
+          "answerLabel": "Answer:",
+          "answer": "Annual budgeting in Abu Dhabi typically includes:\n• Rent (1–4 cheques per year)\n• School fees (termly or annually)\n• Health insurance (annual)\n• Car insurance & registration\n• Utility bills\n• Travel\n• Groceries & transport\nMany families use budgeting apps or simple spreadsheets to plan for large annual payments.",
+          "sources": [
+            {
+              "text": "UAE Government – Cost of Living: https://u.ae/en/information-and-services/housing (u.ae in Bing)",
+              "links": [
+                "https://u.ae/en/information-and-services/housing"
+              ]
+            },
+            {
+              "text": "ADEK – School Fees: https://www.adek.gov.ae",
+              "links": [
+                "https://www.adek.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/housing",
+            "https://www.adek.gov.ae"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Work & Legal",
+      "entries": [
+        {
+          "id": 59,
+          "question": "What should be in my employment contract before I sign?",
+          "answerLabel": "Answer:",
+          "answer": "Your UAE employment contract should clearly state:\n• Job title and description\n• Basic salary + allowances\n• Working hours\n• Leave entitlements\n• Probation period\n• Notice period\n• Health insurance coverage\n• End-of-service benefits\n• WPS salary payment details\n• Any additional benefits (housing, schooling, flights)\nContracts must comply with UAE Labour Law (Federal Decree-Law No. 33 of 2021) and be registered with MoHRE.",
+          "sources": [
+            {
+              "text": "MoHRE – Employment Contracts: https://www.mohre.gov.ae",
+              "links": [
+                "https://www.mohre.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Labour Law Summary: https://u.ae/en/information-and-services/jobs/employment-contracts",
+              "links": [
+                "https://u.ae/en/information-and-services/jobs/employment-contracts"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.mohre.gov.ae",
+            "https://u.ae/en/information-and-services/jobs/employment-contracts"
+          ]
+        },
+        {
+          "id": 60,
+          "question": "What is the probation period and can I leave during it?",
+          "answerLabel": "Answer:",
+          "answer": "Probation periods in the UAE are typically 3–6 months. You can resign during probation, but you must give:\n• 14 days’ notice if leaving the UAE\n• 30 days’ notice if transferring to another UAE employer\nYour employer can also terminate employment during probation with 14 days’ notice.",
+          "sources": [
+            {
+              "text": "MoHRE – Probation Rules: https://www.mohre.gov.ae",
+              "links": [
+                "https://www.mohre.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Labour Law (2021): https://u.ae/en/information-and-services/jobs/employment-contracts",
+              "links": [
+                "https://u.ae/en/information-and-services/jobs/employment-contracts"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.mohre.gov.ae",
+            "https://u.ae/en/information-and-services/jobs/employment-contracts"
+          ]
+        },
+        {
+          "id": 61,
+          "question": "What is a labour ban, and does it still apply?",
+          "answerLabel": "Answer:",
+          "answer": "Labour bans were common under older labour laws but are now rare. Under current regulations, bans\ngenerally apply only if:\n• You violate your contract\n• You abscond\n• You breach labour regulations\nMost employees can change jobs freely as long as notice periods and contractual obligations are met.",
+          "sources": [
+            {
+              "text": "MoHRE – Labour Mobility: https://www.mohre.gov.ae",
+              "links": [
+                "https://www.mohre.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Changing Jobs: https://u.ae/en/information-and-services/jobs/changing-jobs",
+              "links": [
+                "https://u.ae/en/information-and-services/jobs/changing-jobs"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.mohre.gov.ae",
+            "https://u.ae/en/information-and-services/jobs/changing-jobs"
+          ]
+        },
+        {
+          "id": 62,
+          "question": "Can I do freelance or side work on an employment visa?",
+          "answerLabel": "Answer:",
+          "answer": "Yes — but only with the correct work permit. You cannot legally freelance or take side jobs without a\npart-time work permit or freelance permit issued by MoHRE or a free zone. Working without a permit can result in\nfines for both you and the employer.",
+          "sources": [
+            {
+              "text": "MoHRE – Part-Time Work Permit: https://www.mohre.gov.ae",
+              "links": [
+                "https://www.mohre.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Work Permits: https://u.ae/en/information-and-services/jobs",
+              "links": [
+                "https://u.ae/en/information-and-services/jobs"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.mohre.gov.ae",
+            "https://u.ae/en/information-and-services/jobs"
+          ]
+        },
+        {
+          "id": 63,
+          "question": "What are the rules for changing employers?",
+          "answerLabel": "Answer:",
+          "answer": "You can change employers if you:\n• Complete your notice period\n• Have your current employer cancel your visa\n• Sign a new employment contract\n• Obtain a new work permit\nNo-objection certificates (NOCs) are not required under current labour law. Your new employer handles the visa\ntransfer through MoHRE and ICP.",
+          "sources": [
+            {
+              "text": "MoHRE – Job Transfer Rules: https://www.mohre.gov.ae",
+              "links": [
+                "https://www.mohre.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Changing Jobs: https://u.ae/en/information-and-services/jobs/changing-jobs",
+              "links": [
+                "https://u.ae/en/information-and-services/jobs/changing-jobs"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.mohre.gov.ae",
+            "https://u.ae/en/information-and-services/jobs/changing-jobs"
+          ]
+        },
+        {
+          "id": 64,
+          "question": "What is a golden visa and could I qualify later?",
+          "answerLabel": "Answer:",
+          "answer": "The Golden Visa is a long-term residency (5 or 10 years) for eligible categories such as:\n• Investors\n• Entrepreneurs\n• Highly skilled professionals\n• Outstanding students\n• Specialized talent (medicine, science, culture)\nEligibility depends on income, qualifications, investment, or professional achievements. Many expats qualify later in\ntheir career.",
+          "sources": [
+            {
+              "text": "UAE Government – Golden Visa: https://u.ae/en/information-and-services/visa-and-emirates-id/golden-visa",
+              "links": [
+                "https://u.ae/en/information-and-services/visa-and-emirates-id/golden-visa"
+              ]
+            },
+            {
+              "text": "ICP – Golden Visa Services: https://smartservices.icp.gov.ae (smartservices.icp.gov.ae in Bing)",
+              "links": [
+                "https://smartservices.icp.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/visa-and-emirates-id/golden-visa",
+            "https://smartservices.icp.gov.ae"
+          ]
+        },
+        {
+          "id": 65,
+          "question": "What happens to my family's residency if I lose my job?",
+          "answerLabel": "Answer:",
+          "answer": "If your employment ends, your residence visa is typically cancelled within 30 days. Your dependents’ visas are\ntied to yours, so they must also be cancelled or transferred. You have a grace period (usually 30–180 days depending\non visa type) to:\n• Find a new job\n• Transfer your visa\n• Apply for a different residency category\nYour family can remain legally during the grace period.",
+          "sources": [
+            {
+              "text": "ICP – Visa Cancellation & Grace Periods: https://smartservices.icp.gov.ae (smartservices.icp.gov.ae in Bing)",
+              "links": [
+                "https://smartservices.icp.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Residency Rules: https://u.ae/en/information-and-services/visa-and-emirates-\nid/residence-visa",
+              "links": [
+                "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visa"
+              ]
+            }
+          ],
+          "links": [
+            "https://smartservices.icp.gov.ae",
+            "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visa"
+          ]
+        },
+        {
+          "id": 66,
+          "question": "How do I file a complaint against my employer?",
+          "answerLabel": "Answer:",
+          "answer": "You can file a labour complaint through MoHRE via:\n• The MoHRE app\n• The MoHRE website\n• The call center (600 590000)\n• A Tasheel service center\nMoHRE will mediate between you and your employer. If unresolved, the case may be escalated to the labour courts.",
+          "sources": [
+            {
+              "text": "MoHRE – Labour Complaints: https://www.mohre.gov.ae",
+              "links": [
+                "https://www.mohre.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Labour Disputes: https://u.ae/en/information-and-services/jobs/labour-disputes",
+              "links": [
+                "https://u.ae/en/information-and-services/jobs/labour-disputes"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.mohre.gov.ae",
+            "https://u.ae/en/information-and-services/jobs/labour-disputes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Safety",
+      "entries": [
+        {
+          "id": 83,
+          "question": "What are the emergency numbers?",
+          "answerLabel": "Answer:",
+          "answer": "Abu Dhabi has simple, unified emergency numbers:\n• 999 — Police & general emergencies\n• 998 — Ambulance\n• 997 — Fire\n• 996 — Coast Guard\n• 991 — Electricity emergencies (ADDC)\nEmergency services are fast, reliable, and available 24/7.",
+          "sources": [
+            {
+              "text": "UAE Government – Emergency Numbers: https://u.ae/en/information-and-services/justice-and-\nsafety/emergency-numbers",
+              "links": [
+                "https://u.ae/en/information-and-services/justice-and-safety/emergency-numbers"
+              ]
+            },
+            {
+              "text": "Abu Dhabi Police: https://www.adpolice.gov.ae",
+              "links": [
+                "https://www.adpolice.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/justice-and-safety/emergency-numbers",
+            "https://www.adpolice.gov.ae"
+          ]
+        },
+        {
+          "id": 84,
+          "question": "How safe is it to walk at night or leave things in the car?",
+          "answerLabel": "Answer:",
+          "answer": "Abu Dhabi is consistently ranked among the safest cities in the world.\n• Walking at night is generally safe in most neighborhoods.\n• Petty theft is rare, but you should still avoid leaving valuables visible in cars.\n• Police presence is strong and response times are fast.\nSafety is one of the biggest advantages for families living in the UAE.",
+          "sources": [
+            {
+              "text": "Numbeo Safety Index (Abu Dhabi ranked #1 globally multiple years): https://www.numbeo.com/crime",
+              "links": [
+                "https://www.numbeo.com/crime"
+              ]
+            },
+            {
+              "text": "UAE Government – Safety & Security: https://u.ae/en/information-and-services/justice-and-safety",
+              "links": [
+                "https://u.ae/en/information-and-services/justice-and-safety"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.numbeo.com/crime",
+            "https://u.ae/en/information-and-services/justice-and-safety"
+          ]
+        },
+        {
+          "id": 85,
+          "question": "What do I do if I lose my passport or Emirates ID?",
+          "answerLabel": "Answer:",
+          "answer": "If you lose your passport:\n1. Report the loss to Abu Dhabi Police.\n2. Obtain a police report.\n3. Visit your embassy to apply for a replacement or emergency passport.\nIf you lose your Emirates ID:\n1. Report the loss through ICP Smart Services.\n2. Apply for a replacement card.\n3. Provide your passport and residency details.\nLost Emirates IDs are common and easily replaced.",
+          "sources": [
+            {
+              "text": "ICP – Emirates ID Replacement: https://smartservices.icp.gov.ae (smartservices.icp.gov.ae in Bing)",
+              "links": [
+                "https://smartservices.icp.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Lost Passport Procedures: https://u.ae/en/information-and-services/justice-and-\nsafety/lost-and-found",
+              "links": [
+                "https://u.ae/en/information-and-services/justice-and-safety/lost-and-found"
+              ]
+            }
+          ],
+          "links": [
+            "https://smartservices.icp.gov.ae",
+            "https://u.ae/en/information-and-services/justice-and-safety/lost-and-found"
+          ]
+        },
+        {
+          "id": 86,
+          "question": "What happens if I get a traffic fine or my car is impounded?",
+          "answerLabel": "Answer:",
+          "answer": "Traffic fines must be paid through:\n• TAMM\n• Abu Dhabi Police app\n• Police service centers\nIf your car is impounded (e.g., major speeding, dangerous driving), you must:\n• Pay the fine\n• Complete any required courses\n• Wait for the impound period to finish (varies by violation)\nAbu Dhabi has strict road safety laws, especially for speeding.",
+          "sources": [
+            {
+              "text": "Abu Dhabi Police – Traffic Violations: https://www.adpolice.gov.ae",
+              "links": [
+                "https://www.adpolice.gov.ae"
+              ]
+            },
+            {
+              "text": "TAMM – Traffic Services: https://www.tamm.abudhabi",
+              "links": [
+                "https://www.tamm.abudhabi"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.adpolice.gov.ae",
+            "https://www.tamm.abudhabi"
+          ]
+        },
+        {
+          "id": 87,
+          "question": "How do I report a dispute with a landlord?",
+          "answerLabel": "Answer:",
+          "answer": "Landlord–tenant disputes in Abu Dhabi are handled by the Rent Dispute Settlement Committee. Steps:\n1. Attempt resolution with the landlord.\n2. File a case through TAMM.\n3. Provide tenancy contract, Tawtheeq, receipts, and evidence.\n4. Attend hearings if required.\nThe committee issues legally binding decisions.",
+          "sources": [
+            {
+              "text": "TAMM – Rent Dispute Services: https://www.tamm.abudhabi",
+              "links": [
+                "https://www.tamm.abudhabi"
+              ]
+            },
+            {
+              "text": "UAE Government – Housing Disputes: https://u.ae/en/information-and-services/housing",
+              "links": [
+                "https://u.ae/en/information-and-services/housing"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.tamm.abudhabi",
+            "https://u.ae/en/information-and-services/housing"
+          ]
+        },
+        {
+          "id": 88,
+          "question": "What are the penalties for bounced cheques?",
+          "answerLabel": "Answer:",
+          "answer": "Bounced cheques are taken seriously in the UAE. Penalties may include:\n• Fines\n• Bank account restrictions\n• Civil claims\n• In some cases, criminal charges (depending on amount and intent)\nMany banks now offer direct debit or online payments to reduce cheque reliance.",
+          "sources": [
+            {
+              "text": "UAE Government – Cheque Laws: https://u.ae/en/information-and-services/justice-and-safety",
+              "links": [
+                "https://u.ae/en/information-and-services/justice-and-safety"
+              ]
+            },
+            {
+              "text": "Abu Dhabi Judicial Department: https://www.adjd.gov.ae",
+              "links": [
+                "https://www.adjd.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/justice-and-safety",
+            "https://www.adjd.gov.ae"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Long-Term",
+      "entries": [
+        {
+          "id": 89,
+          "question": "When can we buy property, and where can foreigners buy?",
+          "answerLabel": "Answer:",
+          "answer": "Foreigners with any valid UAE residency (employment, family, investor, Golden Visa) can buy property in\ndesignated freehold areas. In Abu Dhabi, expats can buy in:\n• Al Reem Island\n• Yas Island\n• Saadiyat Island\n• Al Raha Beach\n• Masdar City\n• Al Maryah Island\nYou can buy apartments, villas, and townhouses. Ownership is typically freehold or 99-year leasehold, depending on\nthe development.",
+          "sources": [
+            {
+              "text": "Abu Dhabi Real Estate Rules: https://u.ae/en/information-and-services/housing/buying-property",
+              "links": [
+                "https://u.ae/en/information-and-services/housing/buying-property"
+              ]
+            },
+            {
+              "text": "DARI Abu Dhabi (official real estate portal): https://www.dari.ae",
+              "links": [
+                "https://www.dari.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/housing/buying-property",
+            "https://www.dari.ae"
+          ]
+        },
+        {
+          "id": 90,
+          "question": "Can I get a mortgage as a resident?",
+          "answerLabel": "Answer:",
+          "answer": "Yes — residents can apply for mortgages through UAE banks. Typical requirements:\n• Minimum salary (often AED 10,000–15,000)\n• Stable employment\n• Good credit history\n• Down payment: 20% for expats (minimum by law)\nMortgage terms usually range from 15–25 years. Golden Visa holders may receive more flexible terms.",
+          "sources": [
+            {
+              "text": "UAE Central Bank – Mortgage Regulations: https://www.centralbank.ae",
+              "links": [
+                "https://www.centralbank.ae"
+              ]
+            },
+            {
+              "text": "Major banks (FAB, ADCB, HSBC) mortgage pages",
+              "links": []
+            }
+          ],
+          "links": [
+            "https://www.centralbank.ae"
+          ]
+        },
+        {
+          "id": 91,
+          "question": "How do I bring my own business or start one here?",
+          "answerLabel": "Answer:",
+          "answer": "You can start a business in Abu Dhabi through:\n• Mainland licensing (via Abu Dhabi Department of Economic Development – ADDED)\n• Free zones (e.g., ADGM, Hub71, TwoFour54, Masdar City)\nSteps include:\n1. Choose business activity\n2. Apply for trade licence\n3. Register with relevant authorities\n4. Obtain visas for yourself and employees\nFree zones offer 100% foreign ownership and simplified setup.",
+          "sources": [
+            {
+              "text": "ADDED – Business Licensing: https://added.gov.ae",
+              "links": [
+                "https://added.gov.ae"
+              ]
+            },
+            {
+              "text": "ADGM – Business Setup: https://www.adgm.com",
+              "links": [
+                "https://www.adgm.com"
+              ]
+            }
+          ],
+          "links": [
+            "https://added.gov.ae",
+            "https://www.adgm.com"
+          ]
+        },
+        {
+          "id": 92,
+          "question": "How do I get a UAE driving licence that works internationally?",
+          "answerLabel": "Answer:",
+          "answer": "Once you have a UAE driving licence, you can apply for an International Driving Permit (IDP) through:\n• Automobile & Touring Club of the UAE (ATCUAE)\n• Select service centers and online portals\nThe IDP allows you to drive in most countries worldwide.",
+          "sources": [
+            {
+              "text": "ATCUAE – International Driving Permit: https://www.atcuae.ae",
+              "links": [
+                "https://www.atcuae.ae"
+              ]
+            },
+            {
+              "text": "Abu Dhabi Police – Licence Services: https://www.adpolice.gov.ae",
+              "links": [
+                "https://www.adpolice.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.atcuae.ae",
+            "https://www.adpolice.gov.ae"
+          ]
+        },
+        {
+          "id": 93,
+          "question": "Can I apply for citizenship or permanent residency eventually?",
+          "answerLabel": "Answer:",
+          "answer": "UAE citizenship is rare and granted only under exceptional circumstances (e.g., special contributions,\nlong-term service, or nomination by UAE leadership). Permanent residency is available through the Golden Visa,\nwhich offers 5–10 year renewable residency for eligible categories such as investors, professionals, and outstanding\ntalent.",
+          "sources": [
+            {
+              "text": "UAE Government – Citizenship Rules: https://u.ae/en/information-and-services/visa-and-emirates-id/uae-\nnationality",
+              "links": [
+                "https://u.ae/en/information-and-services/visa-and-emirates-id/uae-nationality"
+              ]
+            },
+            {
+              "text": "Golden Visa Overview: https://u.ae/en/information-and-services/visa-and-emirates-id/golden-visa",
+              "links": [
+                "https://u.ae/en/information-and-services/visa-and-emirates-id/golden-visa"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/visa-and-emirates-id/uae-nationality",
+            "https://u.ae/en/information-and-services/visa-and-emirates-id/golden-visa"
+          ]
+        },
+        {
+          "id": 94,
+          "question": "What pension or retirement options exist for expats?",
+          "answerLabel": "Answer:",
+          "answer": "Expats do not receive UAE government pensions. Retirement planning typically includes:\n• Employer savings schemes\n• Private investment plans\n• Offshore retirement accounts\n• End-of-service gratuity (mandatory)\nSome employers offer Employee Savings Plans (ESPs) similar to pension schemes.",
+          "sources": [
+            {
+              "text": "UAE Government – End-of-Service Benefits: https://u.ae/en/information-and-services/jobs/end-of-service-\nbenefits",
+              "links": [
+                "https://u.ae/en/information-and-services/jobs/end-of-service-benefits"
+              ]
+            },
+            {
+              "text": "DIFC Employee Savings Plan (DEWS): https://www.difc.ae",
+              "links": [
+                "https://www.difc.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/jobs/end-of-service-benefits",
+            "https://www.difc.ae"
+          ]
+        },
+        {
+          "id": 95,
+          "question": "How do we plan for children's university — local or abroad?",
+          "answerLabel": "Answer:",
+          "answer": "Abu Dhabi has strong universities (NYU Abu Dhabi, Khalifa University, Sorbonne Abu Dhabi). Many expat\nfamilies also send children abroad. Planning typically includes:\n• Saving early (education plans, investment accounts)\n• Checking scholarship options\n• Reviewing university entry requirements\n• Ensuring curriculum alignment (IB, A-Levels, AP, CBSE)",
+          "sources": [
+            {
+              "text": "ADEK Higher Education Directory: https://www.adek.gov.ae",
+              "links": [
+                "https://www.adek.gov.ae"
+              ]
+            },
+            {
+              "text": "NYU Abu Dhabi: https://nyuad.nyu.edu",
+              "links": [
+                "https://nyuad.nyu.edu"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.adek.gov.ae",
+            "https://nyuad.nyu.edu"
+          ]
+        },
+        {
+          "id": 96,
+          "question": "What do I need to cancel when we leave — visa, Tawtheeq, utilities, bank?",
+          "answerLabel": "Answer:",
+          "answer": "When leaving Abu Dhabi permanently, you must cancel or close several services:\nResidency & Government\n• Cancel your residence visa through your employer or ICP.\n• Cancel dependents’ visas.\nHousing\n• Close your Tawtheeq tenancy contract.\n• Settle final ADDC (water/electricity) bills.\n• Cancel internet (Etisalat/du).\nFinancial\n• Close your bank accounts (optional but recommended).\n• Cancel credit cards.\n• Settle any outstanding loans.\nOther\n• Cancel insurance policies.\n• Return company assets (if applicable).",
+          "sources": [
+            {
+              "text": "ICP – Visa Cancellation: https://smartservices.icp.gov.ae",
+              "links": [
+                "https://smartservices.icp.gov.ae"
+              ]
+            },
+            {
+              "text": "TAMM – Tenancy & Utility Services: https://www.tamm.abudhabi",
+              "links": [
+                "https://www.tamm.abudhabi"
+              ]
+            },
+            {
+              "text": "ADDC: https://www.addc.ae",
+              "links": [
+                "https://www.addc.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://smartservices.icp.gov.ae",
+            "https://www.tamm.abudhabi",
+            "https://www.addc.ae"
+          ]
+        },
+        {
+          "id": 97,
+          "question": "Can I ship goods out and take my car?",
+          "answerLabel": "Answer:",
+          "answer": "Yes — you can ship household goods internationally using movers. To export your car, you must:\n• Clear any fines\n• Cancel registration\n• Obtain export plates\n• Complete customs clearance\n• Arrange shipping with a certified exporter\nSome countries require additional inspections or compliance checks.",
+          "sources": [
+            {
+              "text": "Abu Dhabi Customs: https://www.abudhabi.ae",
+              "links": [
+                "https://www.abudhabi.ae"
+              ]
+            },
+            {
+              "text": "Abu Dhabi Police – Vehicle Export: https://www.adpolice.gov.ae",
+              "links": [
+                "https://www.adpolice.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.abudhabi.ae",
+            "https://www.adpolice.gov.ae"
+          ]
+        },
+        {
+          "id": 98,
+          "question": "How do I get my gratuity and deposits back?",
+          "answerLabel": "Answer:",
+          "answer": "End-of-service gratuity is paid by your employer after visa cancellation. You must:\n• Complete exit formalities\n• Return company property\n• Ensure WPS salary records are up to date\nHousing deposits are refunded after:\n• Final inspection\n• Settlement of utility bills\n• Contract closure (Tawtheeq)\nRefund timelines vary by landlord.",
+          "sources": [
+            {
+              "text": "MoHRE – End-of-Service Benefits: https://www.mohre.gov.ae",
+              "links": [
+                "https://www.mohre.gov.ae"
+              ]
+            },
+            {
+              "text": "UAE Government – Housing & Deposits: https://u.ae/en/information-and-services/housing",
+              "links": [
+                "https://u.ae/en/information-and-services/housing"
+              ]
+            }
+          ],
+          "links": [
+            "https://www.mohre.gov.ae",
+            "https://u.ae/en/information-and-services/housing"
+          ]
+        },
+        {
+          "id": 99,
+          "question": "What records should I keep after leaving?",
+          "answerLabel": "Answer:",
+          "answer": "Keep copies of:\n• Final salary & gratuity statements\n• Visa cancellation certificates\n• Tawtheeq cancellation\n• Utility clearance certificates\n• Tax records (if applicable)\n• Employment references\n• Insurance closure documents\nThese documents help with future employment, immigration, or financial processes.",
+          "sources": [
+            {
+              "text": "UAE Government – Employment Records: https://u.ae/en/information-and-services/jobs",
+              "links": [
+                "https://u.ae/en/information-and-services/jobs"
+              ]
+            },
+            {
+              "text": "ICP – Visa Documentation: https://smartservices.icp.gov.ae",
+              "links": [
+                "https://smartservices.icp.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/jobs",
+            "https://smartservices.icp.gov.ae"
+          ]
+        },
+        {
+          "id": 100,
+          "question": "What if we want to come back later?",
+          "answerLabel": "Answer:",
+          "answer": "You can return to Abu Dhabi anytime on:\n• A new employment visa\n• A family sponsorship visa\n• A Golden Visa (if eligible)\n• A visit visa\nPast residency does not restrict future entry. If you left with no fines or violations, re-entry is straightforward.",
+          "sources": [
+            {
+              "text": "UAE Government – Residency Options: https://u.ae/en/information-and-services/visa-and-emirates-\nid/residence-visa",
+              "links": [
+                "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visa"
+              ]
+            },
+            {
+              "text": "ICP – Visa Services: https://smartservices.icp.gov.ae",
+              "links": [
+                "https://smartservices.icp.gov.ae"
+              ]
+            }
+          ],
+          "links": [
+            "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visa",
+            "https://smartservices.icp.gov.ae"
+          ]
+        }
+      ]
+    }
+  ]
+}
